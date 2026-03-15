@@ -1,0 +1,7786 @@
+[
+  {
+    "goal_id": 1,
+    "match_id": 1834859,
+    "team_code": 71,
+    "scorer_name": "Riccardo Orsolini",
+    "scorer_code": 286828.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 2,
+    "match_id": 1834859,
+    "team_code": 86,
+    "scorer_name": "Lautaro Giannetti",
+    "scorer_code": 126255.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 3,
+    "match_id": 1834862,
+    "team_code": 278,
+    "scorer_name": "Alessandro Vogliacco",
+    "scorer_code": 403463.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 4,
+    "match_id": 1834862,
+    "team_code": 75,
+    "scorer_name": "Marcus Thuram",
+    "scorer_code": 296322.0,
+    "minute": 30.0
+  },
+  {
+    "goal_id": 5,
+    "match_id": 1834862,
+    "team_code": 75,
+    "scorer_name": "Marcus Thuram",
+    "scorer_code": 296322.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 6,
+    "match_id": 1834862,
+    "team_code": 278,
+    "scorer_name": "Junior Messias",
+    "scorer_code": 401098.0,
+    "minute": 94.0
+  },
+  {
+    "goal_id": 7,
+    "match_id": 1834863,
+    "team_code": 76,
+    "scorer_name": "Dailon Livramento",
+    "scorer_code": 528208.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 8,
+    "match_id": 1834863,
+    "team_code": 76,
+    "scorer_name": "Daniel Mosquera",
+    "scorer_code": 532226.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 9,
+    "match_id": 1834863,
+    "team_code": 76,
+    "scorer_name": "Daniel Mosquera",
+    "scorer_code": 532226.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 10,
+    "match_id": 1834864,
+    "team_code": 87,
+    "scorer_name": "Samuel Mbangula",
+    "scorer_code": 468855.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 11,
+    "match_id": 1834864,
+    "team_code": 87,
+    "scorer_name": "Timothy Weah",
+    "scorer_code": 353991.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 12,
+    "match_id": 1834864,
+    "team_code": 87,
+    "scorer_name": "Andrea Cambiaso",
+    "scorer_code": 423440.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 13,
+    "match_id": 1834865,
+    "team_code": 85,
+    "scorer_name": "Magnus Kofod Andersen",
+    "scorer_code": 377274.0,
+    "minute": 3.0
+  },
+  {
+    "goal_id": 14,
+    "match_id": 1834865,
+    "team_code": 77,
+    "scorer_name": "Valentín Castellanos",
+    "scorer_code": 361406.0,
+    "minute": 11.0
+  },
+  {
+    "goal_id": 15,
+    "match_id": 1834865,
+    "team_code": 77,
+    "scorer_name": "Mattia Zaccagni",
+    "scorer_code": 149029.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 16,
+    "match_id": 1834865,
+    "team_code": 77,
+    "scorer_name": "Giorgio Altare",
+    "scorer_code": 338476.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 17,
+    "match_id": 1834866,
+    "team_code": 300,
+    "scorer_name": "Marco Brescianini",
+    "scorer_code": 367260.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 18,
+    "match_id": 1834866,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 19,
+    "match_id": 1834866,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 20,
+    "match_id": 1834866,
+    "team_code": 300,
+    "scorer_name": "Marco Brescianini",
+    "scorer_code": 367260.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 21,
+    "match_id": 1834867,
+    "team_code": 72,
+    "scorer_name": "Malick Thiaw",
+    "scorer_code": 393355.0,
+    "minute": 30.0
+  },
+  {
+    "goal_id": 22,
+    "match_id": 1834867,
+    "team_code": 72,
+    "scorer_name": "Duván Zapata",
+    "scorer_code": 41073.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 23,
+    "match_id": 1834867,
+    "team_code": 80,
+    "scorer_name": "Álvaro Morata",
+    "scorer_code": 91213.0,
+    "minute": 89.0
+  },
+  {
+    "goal_id": 24,
+    "match_id": 1834867,
+    "team_code": 80,
+    "scorer_name": "Noah Okafor",
+    "scorer_code": 376090.0,
+    "minute": 94.0
+  },
+  {
+    "goal_id": 25,
+    "match_id": 1834868,
+    "team_code": 24341,
+    "scorer_name": "Dennis Man",
+    "scorer_code": 329769.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 26,
+    "match_id": 1834868,
+    "team_code": 73,
+    "scorer_name": "Cristiano Biraghi",
+    "scorer_code": 93935.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 27,
+    "match_id": 1834869,
+    "team_code": 78,
+    "scorer_name": "Roberto Piccoli",
+    "scorer_code": 369414.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 28,
+    "match_id": 1834869,
+    "team_code": 1290,
+    "scorer_name": "Patrick Cutrone",
+    "scorer_code": 329681.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 29,
+    "match_id": 1834871,
+    "team_code": 87,
+    "scorer_name": "Dusan Vlahovic",
+    "scorer_code": 315369.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 30,
+    "match_id": 1834871,
+    "team_code": 87,
+    "scorer_name": "Nicolò Savona",
+    "scorer_code": 450289.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 31,
+    "match_id": 1834871,
+    "team_code": 87,
+    "scorer_name": "Dusan Vlahovic",
+    "scorer_code": 315369.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 32,
+    "match_id": 1834872,
+    "team_code": 278,
+    "scorer_name": "Andrea Pinamonti",
+    "scorer_code": 317544.0,
+    "minute": 52.0
+  },
+  {
+    "goal_id": 33,
+    "match_id": 1834873,
+    "team_code": 75,
+    "scorer_name": "Matteo Darmian",
+    "scorer_code": 23220.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 34,
+    "match_id": 1834873,
+    "team_code": 75,
+    "scorer_name": "Hakan Çalhanoglu",
+    "scorer_code": 110373.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 35,
+    "match_id": 1834874,
+    "team_code": 276,
+    "scorer_name": "Giovanni Di Lorenzo",
+    "scorer_code": 122469.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 36,
+    "match_id": 1834874,
+    "team_code": 276,
+    "scorer_name": "Khvicha Kvaratskhelia",
+    "scorer_code": 370984.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 37,
+    "match_id": 1834874,
+    "team_code": 276,
+    "scorer_name": "Giovanni Simeone",
+    "scorer_code": 133839.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 38,
+    "match_id": 1834875,
+    "team_code": 272,
+    "scorer_name": "Emmanuel Gyasi",
+    "scorer_code": 143526.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 39,
+    "match_id": 1834875,
+    "team_code": 272,
+    "scorer_name": "Lorenzo Colombo",
+    "scorer_code": 395219.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 40,
+    "match_id": 1834875,
+    "team_code": 84,
+    "scorer_name": "Eldor Shomurodov",
+    "scorer_code": 262707.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 41,
+    "match_id": 1834876,
+    "team_code": 24341,
+    "scorer_name": "Dennis Man",
+    "scorer_code": 329769.0,
+    "minute": 2.0
+  },
+  {
+    "goal_id": 42,
+    "match_id": 1834876,
+    "team_code": 80,
+    "scorer_name": "Christian Pulisic",
+    "scorer_code": 302692.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 43,
+    "match_id": 1834876,
+    "team_code": 24341,
+    "scorer_name": "Matteo Cancellieri",
+    "scorer_code": 404497.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 44,
+    "match_id": 1834877,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 26.0
+  },
+  {
+    "goal_id": 45,
+    "match_id": 1834877,
+    "team_code": 72,
+    "scorer_name": "Ivan Ilic",
+    "scorer_code": 401042.0,
+    "minute": 31.0
+  },
+  {
+    "goal_id": 46,
+    "match_id": 1834877,
+    "team_code": 72,
+    "scorer_name": "Ché Adams",
+    "scorer_code": 256419.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 47,
+    "match_id": 1834878,
+    "team_code": 86,
+    "scorer_name": "Lorenzo Lucca",
+    "scorer_code": 424819.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 48,
+    "match_id": 1834878,
+    "team_code": 86,
+    "scorer_name": "Florian Thauvin",
+    "scorer_code": 99143.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 49,
+    "match_id": 1834878,
+    "team_code": 77,
+    "scorer_name": "Gustav Isaksen",
+    "scorer_code": 403648.0,
+    "minute": 94.0
+  },
+  {
+    "goal_id": 50,
+    "match_id": 1834879,
+    "team_code": 71,
+    "scorer_name": "Giovanni Fabbian",
+    "scorer_code": 447528.0,
+    "minute": 2.0
+  },
+  {
+    "goal_id": 51,
+    "match_id": 1834879,
+    "team_code": 272,
+    "scorer_name": "Emmanuel Gyasi",
+    "scorer_code": 143526.0,
+    "minute": 3.0
+  },
+  {
+    "goal_id": 52,
+    "match_id": 1834880,
+    "team_code": 269,
+    "scorer_name": "Milan Djuric",
+    "scorer_code": 33649.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 53,
+    "match_id": 1834880,
+    "team_code": 269,
+    "scorer_name": "Daniel Maldini",
+    "scorer_code": 388493.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 54,
+    "match_id": 1834880,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 55,
+    "match_id": 1834880,
+    "team_code": 73,
+    "scorer_name": "Robin Gosens",
+    "scorer_code": 141726.0,
+    "minute": 95.0
+  },
+  {
+    "goal_id": 56,
+    "match_id": 1834881,
+    "team_code": 76,
+    "scorer_name": "Jackson Tchatchoua",
+    "scorer_code": 408580.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 57,
+    "match_id": 1834881,
+    "team_code": 76,
+    "scorer_name": "Casper Tengstedt",
+    "scorer_code": 426271.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 58,
+    "match_id": 1834882,
+    "team_code": 75,
+    "scorer_name": "Berat Djimsiti",
+    "scorer_code": 100962.0,
+    "minute": 3.0
+  },
+  {
+    "goal_id": 59,
+    "match_id": 1834882,
+    "team_code": 75,
+    "scorer_name": "Nicolò Barella",
+    "scorer_code": 148684.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 60,
+    "match_id": 1834882,
+    "team_code": 75,
+    "scorer_name": "Marcus Thuram",
+    "scorer_code": 296322.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 61,
+    "match_id": 1834882,
+    "team_code": 75,
+    "scorer_name": "Marcus Thuram",
+    "scorer_code": 296322.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 62,
+    "match_id": 1834884,
+    "team_code": 80,
+    "scorer_name": "Strahinja Pavlovic",
+    "scorer_code": 383864.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 63,
+    "match_id": 1834884,
+    "team_code": 77,
+    "scorer_name": "Valentín Castellanos",
+    "scorer_code": 361406.0,
+    "minute": 62.0
+  },
+  {
+    "goal_id": 64,
+    "match_id": 1834884,
+    "team_code": 77,
+    "scorer_name": "Boulaye Dia",
+    "scorer_code": 365122.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 65,
+    "match_id": 1834884,
+    "team_code": 80,
+    "scorer_name": "Rafael Leão",
+    "scorer_code": 349207.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 66,
+    "match_id": 1834885,
+    "team_code": 79,
+    "scorer_name": "Nikola Krstovic",
+    "scorer_code": 404252.0,
+    "minute": 26.0
+  },
+  {
+    "goal_id": 67,
+    "match_id": 1834886,
+    "team_code": 24341,
+    "scorer_name": "Ange-Yoan Bonny",
+    "scorer_code": 447489.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 68,
+    "match_id": 1834886,
+    "team_code": 276,
+    "scorer_name": "Romelu Lukaku",
+    "scorer_code": 78498.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 69,
+    "match_id": 1834886,
+    "team_code": 276,
+    "scorer_name": "Frank Anguissa",
+    "scorer_code": 349561.0,
+    "minute": 95.0
+  },
+  {
+    "goal_id": 70,
+    "match_id": 1834887,
+    "team_code": 86,
+    "scorer_name": "Brenner",
+    "scorer_code": 339723.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 71,
+    "match_id": 1834888,
+    "team_code": 72,
+    "scorer_name": "Saúl Coco",
+    "scorer_code": 431167.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 72,
+    "match_id": 1834890,
+    "team_code": 73,
+    "scorer_name": "Lucas Martínez Quarta",
+    "scorer_code": 329854.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 73,
+    "match_id": 1834890,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 74,
+    "match_id": 1834890,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 75,
+    "match_id": 1834890,
+    "team_code": 300,
+    "scorer_name": "Charles De Ketelaere",
+    "scorer_code": 386390.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 76,
+    "match_id": 1834890,
+    "team_code": 300,
+    "scorer_name": "Ademola Lookman",
+    "scorer_code": 299451.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 77,
+    "match_id": 1834891,
+    "team_code": 84,
+    "scorer_name": "Artem Dovbyk",
+    "scorer_code": 296975.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 78,
+    "match_id": 1834891,
+    "team_code": 278,
+    "scorer_name": "Koni De Winter",
+    "scorer_code": 404623.0,
+    "minute": 95.0
+  },
+  {
+    "goal_id": 79,
+    "match_id": 1834892,
+    "team_code": 276,
+    "scorer_name": "Giovanni Di Lorenzo",
+    "scorer_code": 122469.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 80,
+    "match_id": 1834892,
+    "team_code": 276,
+    "scorer_name": "Khvicha Kvaratskhelia",
+    "scorer_code": 370984.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 81,
+    "match_id": 1834892,
+    "team_code": 276,
+    "scorer_name": "Romelu Lukaku",
+    "scorer_code": 78498.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 82,
+    "match_id": 1834892,
+    "team_code": 276,
+    "scorer_name": "Alessandro Buongiorno",
+    "scorer_code": 333373.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 83,
+    "match_id": 1834893,
+    "team_code": 77,
+    "scorer_name": "Boulaye Dia",
+    "scorer_code": 365122.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 84,
+    "match_id": 1834893,
+    "team_code": 76,
+    "scorer_name": "Casper Tengstedt",
+    "scorer_code": 426271.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 85,
+    "match_id": 1834893,
+    "team_code": 77,
+    "scorer_name": "Valentín Castellanos",
+    "scorer_code": 361406.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 86,
+    "match_id": 1834894,
+    "team_code": 1290,
+    "scorer_name": "Nicolò Casale",
+    "scorer_code": 349406.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 87,
+    "match_id": 1834894,
+    "team_code": 1290,
+    "scorer_name": "Patrick Cutrone",
+    "scorer_code": 329681.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 88,
+    "match_id": 1834894,
+    "team_code": 71,
+    "scorer_name": "Santiago Castro",
+    "scorer_code": 421081.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 89,
+    "match_id": 1834894,
+    "team_code": 71,
+    "scorer_name": "Samuel Iling-Junior",
+    "scorer_code": 438894.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 90,
+    "match_id": 1834895,
+    "team_code": 80,
+    "scorer_name": "Theo Hernández",
+    "scorer_code": 303115.0,
+    "minute": 2.0
+  },
+  {
+    "goal_id": 91,
+    "match_id": 1834895,
+    "team_code": 80,
+    "scorer_name": "Youssouf Fofana",
+    "scorer_code": 362470.0,
+    "minute": 16.0
+  },
+  {
+    "goal_id": 92,
+    "match_id": 1834895,
+    "team_code": 80,
+    "scorer_name": "Christian Pulisic",
+    "scorer_code": 302692.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 93,
+    "match_id": 1834895,
+    "team_code": 80,
+    "scorer_name": "Tammy Abraham",
+    "scorer_code": 317506.0,
+    "minute": 29.0
+  },
+  {
+    "goal_id": 94,
+    "match_id": 1834896,
+    "team_code": 269,
+    "scorer_name": "Dany Mota",
+    "scorer_code": 315287.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 95,
+    "match_id": 1834896,
+    "team_code": 75,
+    "scorer_name": "Denzel Dumfries",
+    "scorer_code": 322153.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 96,
+    "match_id": 1834897,
+    "team_code": 24341,
+    "scorer_name": "Enrico Delprato",
+    "scorer_code": 355856.0,
+    "minute": 2.0
+  },
+  {
+    "goal_id": 97,
+    "match_id": 1834897,
+    "team_code": 24341,
+    "scorer_name": "Ange-Yoan Bonny",
+    "scorer_code": 447489.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 98,
+    "match_id": 1834897,
+    "team_code": 86,
+    "scorer_name": "Lorenzo Lucca",
+    "scorer_code": 424819.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 99,
+    "match_id": 1834897,
+    "team_code": 86,
+    "scorer_name": "Florian Thauvin",
+    "scorer_code": 99143.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 100,
+    "match_id": 1834897,
+    "team_code": 86,
+    "scorer_name": "Florian Thauvin",
+    "scorer_code": 99143.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 101,
+    "match_id": 1834899,
+    "team_code": 300,
+    "scorer_name": "Davide Zappacosta",
+    "scorer_code": 141312.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 102,
+    "match_id": 1834899,
+    "team_code": 1290,
+    "scorer_name": "Gabriel Strefezza",
+    "scorer_code": 335576.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 103,
+    "match_id": 1834899,
+    "team_code": 1290,
+    "scorer_name": "Sead Kolasinac",
+    "scorer_code": 110260.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 104,
+    "match_id": 1834899,
+    "team_code": 1290,
+    "scorer_name": "Alieu Fadera",
+    "scorer_code": 421983.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 105,
+    "match_id": 1834899,
+    "team_code": 300,
+    "scorer_name": "Ademola Lookman",
+    "scorer_code": 299451.0,
+    "minute": 98.0
+  },
+  {
+    "goal_id": 106,
+    "match_id": 1834900,
+    "team_code": 272,
+    "scorer_name": "Lorenzo Colombo",
+    "scorer_code": 395219.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 107,
+    "match_id": 1834900,
+    "team_code": 272,
+    "scorer_name": "Sebastiano Esposito",
+    "scorer_code": 371397.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 108,
+    "match_id": 1834901,
+    "team_code": 77,
+    "scorer_name": "Mario Gila",
+    "scorer_code": 437646.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 109,
+    "match_id": 1834901,
+    "team_code": 73,
+    "scorer_name": "Albert Gudmundsson",
+    "scorer_code": 289252.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 110,
+    "match_id": 1834901,
+    "team_code": 73,
+    "scorer_name": "Albert Gudmundsson",
+    "scorer_code": 289252.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 111,
+    "match_id": 1834902,
+    "team_code": 72,
+    "scorer_name": "Antonio Sanabria",
+    "scorer_code": 135057.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 112,
+    "match_id": 1834902,
+    "team_code": 76,
+    "scorer_name": "Grigoris Kastanos",
+    "scorer_code": 275831.0,
+    "minute": 12.0
+  },
+  {
+    "goal_id": 113,
+    "match_id": 1834902,
+    "team_code": 72,
+    "scorer_name": "Duván Zapata",
+    "scorer_code": 41073.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 114,
+    "match_id": 1834902,
+    "team_code": 72,
+    "scorer_name": "Ché Adams",
+    "scorer_code": 256419.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 115,
+    "match_id": 1834902,
+    "team_code": 76,
+    "scorer_name": "Daniel Mosquera",
+    "scorer_code": 532226.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 116,
+    "match_id": 1834903,
+    "team_code": 80,
+    "scorer_name": "Christian Pulisic",
+    "scorer_code": 302692.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 117,
+    "match_id": 1834903,
+    "team_code": 75,
+    "scorer_name": "Federico Dimarco",
+    "scorer_code": 255929.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 118,
+    "match_id": 1834903,
+    "team_code": 80,
+    "scorer_name": "Matteo Gabbia",
+    "scorer_code": 337443.0,
+    "minute": 89.0
+  },
+  {
+    "goal_id": 119,
+    "match_id": 1834905,
+    "team_code": 79,
+    "scorer_name": "Patrick Dorgu",
+    "scorer_code": 495260.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 120,
+    "match_id": 1834905,
+    "team_code": 79,
+    "scorer_name": "Nikola Krstovic",
+    "scorer_code": 404252.0,
+    "minute": 59.0
+  },
+  {
+    "goal_id": 121,
+    "match_id": 1834905,
+    "team_code": 24341,
+    "scorer_name": "Pontus Almqvist",
+    "scorer_code": 345600.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 122,
+    "match_id": 1834905,
+    "team_code": 24341,
+    "scorer_name": "Antoine Hainaut",
+    "scorer_code": 447493.0,
+    "minute": 94.0
+  },
+  {
+    "goal_id": 123,
+    "match_id": 1834906,
+    "team_code": 71,
+    "scorer_name": "Kacper Urbanski",
+    "scorer_code": 414593.0,
+    "minute": 24.0
+  },
+  {
+    "goal_id": 124,
+    "match_id": 1834906,
+    "team_code": 269,
+    "scorer_name": "Milan Djuric",
+    "scorer_code": 33649.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 125,
+    "match_id": 1834906,
+    "team_code": 71,
+    "scorer_name": "Santiago Castro",
+    "scorer_code": 421081.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 126,
+    "match_id": 1834907,
+    "team_code": 84,
+    "scorer_name": "Artem Dovbyk",
+    "scorer_code": 296975.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 127,
+    "match_id": 1834907,
+    "team_code": 84,
+    "scorer_name": "Paulo Dybala",
+    "scorer_code": 114863.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 128,
+    "match_id": 1834907,
+    "team_code": 84,
+    "scorer_name": "Tommaso Baldanzi",
+    "scorer_code": 425056.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 129,
+    "match_id": 1834908,
+    "team_code": 85,
+    "scorer_name": "Gianluca Busio",
+    "scorer_code": 358142.0,
+    "minute": 63.0
+  },
+  {
+    "goal_id": 130,
+    "match_id": 1834908,
+    "team_code": 85,
+    "scorer_name": "Joel Pohjanpalo",
+    "scorer_code": 139623.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 131,
+    "match_id": 1834909,
+    "team_code": 272,
+    "scorer_name": "Mattia De Sciglio",
+    "scorer_code": 107275.0,
+    "minute": 4.0
+  },
+  {
+    "goal_id": 132,
+    "match_id": 1834909,
+    "team_code": 87,
+    "scorer_name": "Randal Kolo Muani",
+    "scorer_code": 333542.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 133,
+    "match_id": 1834909,
+    "team_code": 87,
+    "scorer_name": "Randal Kolo Muani",
+    "scorer_code": 333542.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 134,
+    "match_id": 1834909,
+    "team_code": 87,
+    "scorer_name": "Dusan Vlahovic",
+    "scorer_code": 315369.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 135,
+    "match_id": 1834909,
+    "team_code": 87,
+    "scorer_name": "Francisco Conceição",
+    "scorer_code": 409221.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 136,
+    "match_id": 1834910,
+    "team_code": 71,
+    "scorer_name": "Santiago Castro",
+    "scorer_code": 421081.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 137,
+    "match_id": 1834910,
+    "team_code": 300,
+    "scorer_name": "Lazar Samardzic",
+    "scorer_code": 393039.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 138,
+    "match_id": 1834912,
+    "team_code": 75,
+    "scorer_name": "Davide Frattesi",
+    "scorer_code": 331425.0,
+    "minute": 1.0
+  },
+  {
+    "goal_id": 139,
+    "match_id": 1834912,
+    "team_code": 86,
+    "scorer_name": "Christian Kabasele",
+    "scorer_code": 68393.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 140,
+    "match_id": 1834912,
+    "team_code": 75,
+    "scorer_name": "Lautaro Martínez",
+    "scorer_code": 299344.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 141,
+    "match_id": 1834912,
+    "team_code": 75,
+    "scorer_name": "Lautaro Martínez",
+    "scorer_code": 299344.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 142,
+    "match_id": 1834912,
+    "team_code": 86,
+    "scorer_name": "Lorenzo Lucca",
+    "scorer_code": 424819.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 143,
+    "match_id": 1834913,
+    "team_code": 86,
+    "scorer_name": "Lorenzo Lucca",
+    "scorer_code": 424819.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 144,
+    "match_id": 1834913,
+    "team_code": 86,
+    "scorer_name": "Sandi Lovric",
+    "scorer_code": 384577.0,
+    "minute": 52.0
+  },
+  {
+    "goal_id": 145,
+    "match_id": 1834913,
+    "team_code": 85,
+    "scorer_name": "Hans Nicolussi Caviglia",
+    "scorer_code": 371257.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 146,
+    "match_id": 1834913,
+    "team_code": 85,
+    "scorer_name": "Christian Gytkjær",
+    "scorer_code": 39516.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 147,
+    "match_id": 1834913,
+    "team_code": 86,
+    "scorer_name": "Iker Bravo",
+    "scorer_code": 427262.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 148,
+    "match_id": 1834914,
+    "team_code": 1290,
+    "scorer_name": "Patrick Cutrone",
+    "scorer_code": 329681.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 149,
+    "match_id": 1834914,
+    "team_code": 76,
+    "scorer_name": "Darko Lazovic",
+    "scorer_code": 38442.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 150,
+    "match_id": 1834914,
+    "team_code": 1290,
+    "scorer_name": "Patrick Cutrone",
+    "scorer_code": 329681.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 151,
+    "match_id": 1834914,
+    "team_code": 1290,
+    "scorer_name": "Andrea Belotti",
+    "scorer_code": 112272.0,
+    "minute": 89.0
+  },
+  {
+    "goal_id": 152,
+    "match_id": 1834914,
+    "team_code": 76,
+    "scorer_name": "Mathis Lambourde",
+    "scorer_code": 495471.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 153,
+    "match_id": 1834915,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 16.0
+  },
+  {
+    "goal_id": 154,
+    "match_id": 1834915,
+    "team_code": 276,
+    "scorer_name": "Matteo Politano",
+    "scorer_code": 122683.0,
+    "minute": 27.0
+  },
+  {
+    "goal_id": 155,
+    "match_id": 1834915,
+    "team_code": 276,
+    "scorer_name": "Scott McTominay",
+    "scorer_code": 336915.0,
+    "minute": 40.0
+  },
+  {
+    "goal_id": 156,
+    "match_id": 1834915,
+    "team_code": 300,
+    "scorer_name": "Ademola Lookman",
+    "scorer_code": 299451.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 157,
+    "match_id": 1834915,
+    "team_code": 276,
+    "scorer_name": "Romelu Lukaku",
+    "scorer_code": 78498.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 158,
+    "match_id": 1834917,
+    "team_code": 1290,
+    "scorer_name": "Nico Paz",
+    "scorer_code": 448659.0,
+    "minute": 30.0
+  },
+  {
+    "goal_id": 159,
+    "match_id": 1834917,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 160,
+    "match_id": 1834917,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 161,
+    "match_id": 1834918,
+    "team_code": 269,
+    "scorer_name": "Patrick Ciurria",
+    "scorer_code": 141668.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 162,
+    "match_id": 1834918,
+    "team_code": 269,
+    "scorer_name": "Daniel Maldini",
+    "scorer_code": 388493.0,
+    "minute": 63.0
+  },
+  {
+    "goal_id": 163,
+    "match_id": 1834918,
+    "team_code": 73,
+    "scorer_name": "Lucas Beltrán",
+    "scorer_code": 365410.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 164,
+    "match_id": 1834919,
+    "team_code": 87,
+    "scorer_name": "Dusan Vlahovic",
+    "scorer_code": 315369.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 165,
+    "match_id": 1834919,
+    "team_code": 87,
+    "scorer_name": "Dusan Vlahovic",
+    "scorer_code": 315369.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 166,
+    "match_id": 1834919,
+    "team_code": 87,
+    "scorer_name": "Francisco Conceição",
+    "scorer_code": 409221.0,
+    "minute": 89.0
+  },
+  {
+    "goal_id": 167,
+    "match_id": 1834920,
+    "team_code": 276,
+    "scorer_name": "Lorenzo Montipò",
+    "scorer_code": 142425.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 168,
+    "match_id": 1834920,
+    "team_code": 276,
+    "scorer_name": "Frank Anguissa",
+    "scorer_code": 349561.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 169,
+    "match_id": 1834921,
+    "team_code": 80,
+    "scorer_name": "Álvaro Morata",
+    "scorer_code": 91213.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 170,
+    "match_id": 1834921,
+    "team_code": 80,
+    "scorer_name": "Theo Hernández",
+    "scorer_code": 303115.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 171,
+    "match_id": 1834921,
+    "team_code": 80,
+    "scorer_name": "Christian Pulisic",
+    "scorer_code": 302692.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 172,
+    "match_id": 1834922,
+    "team_code": 276,
+    "scorer_name": "Matteo Politano",
+    "scorer_code": 122683.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 173,
+    "match_id": 1834922,
+    "team_code": 276,
+    "scorer_name": "Khvicha Kvaratskhelia",
+    "scorer_code": 370984.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 174,
+    "match_id": 1834923,
+    "team_code": 84,
+    "scorer_name": "Alexis Saelemaekers",
+    "scorer_code": 365308.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 175,
+    "match_id": 1834923,
+    "team_code": 71,
+    "scorer_name": "Thijs Dallinga",
+    "scorer_code": 379687.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 176,
+    "match_id": 1834923,
+    "team_code": 71,
+    "scorer_name": "Lewis Ferguson",
+    "scorer_code": 396971.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 177,
+    "match_id": 1834923,
+    "team_code": 84,
+    "scorer_name": "Artem Dovbyk",
+    "scorer_code": 296975.0,
+    "minute": 97.0
+  },
+  {
+    "goal_id": 178,
+    "match_id": 1834924,
+    "team_code": 87,
+    "scorer_name": "Kenan Yildiz",
+    "scorer_code": 494525.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 179,
+    "match_id": 1834924,
+    "team_code": 72,
+    "scorer_name": "Nikola Vlasic",
+    "scorer_code": 343975.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 180,
+    "match_id": 1834925,
+    "team_code": 78,
+    "scorer_name": "Nadir Zortea",
+    "scorer_code": 423508.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 181,
+    "match_id": 1834925,
+    "team_code": 24341,
+    "scorer_name": "Dennis Man",
+    "scorer_code": 329769.0,
+    "minute": 62.0
+  },
+  {
+    "goal_id": 182,
+    "match_id": 1834925,
+    "team_code": 78,
+    "scorer_name": "Razvan Marin",
+    "scorer_code": 239013.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 183,
+    "match_id": 1834925,
+    "team_code": 24341,
+    "scorer_name": "Hernani",
+    "scorer_code": 101958.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 184,
+    "match_id": 1834925,
+    "team_code": 78,
+    "scorer_name": "Roberto Piccoli",
+    "scorer_code": 369414.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 185,
+    "match_id": 1834926,
+    "team_code": 79,
+    "scorer_name": "Tete Morente",
+    "scorer_code": 402087.0,
+    "minute": 6.0
+  },
+  {
+    "goal_id": 186,
+    "match_id": 1834926,
+    "team_code": 79,
+    "scorer_name": "Nikola Krstovic",
+    "scorer_code": 404252.0,
+    "minute": 11.0
+  },
+  {
+    "goal_id": 187,
+    "match_id": 1834926,
+    "team_code": 272,
+    "scorer_name": "Liberato Cacace",
+    "scorer_code": 402095.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 188,
+    "match_id": 1834926,
+    "team_code": 79,
+    "scorer_name": "Nikola Krstovic",
+    "scorer_code": 404252.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 189,
+    "match_id": 1834927,
+    "team_code": 85,
+    "scorer_name": "Joel Pohjanpalo",
+    "scorer_code": 139623.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 190,
+    "match_id": 1834927,
+    "team_code": 84,
+    "scorer_name": "Bryan Cristante",
+    "scorer_code": 109149.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 191,
+    "match_id": 1834927,
+    "team_code": 84,
+    "scorer_name": "Niccolò Pisilli",
+    "scorer_code": 476440.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 192,
+    "match_id": 1834928,
+    "team_code": 75,
+    "scorer_name": "Matteo Darmian",
+    "scorer_code": 23220.0,
+    "minute": 16.0
+  },
+  {
+    "goal_id": 193,
+    "match_id": 1834929,
+    "team_code": 278,
+    "scorer_name": "Morten Frendrup",
+    "scorer_code": 424806.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 194,
+    "match_id": 1834930,
+    "team_code": 77,
+    "scorer_name": "Mattéo Guendouzi",
+    "scorer_code": 328983.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 195,
+    "match_id": 1834930,
+    "team_code": 77,
+    "scorer_name": "Boulaye Dia",
+    "scorer_code": 365122.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 196,
+    "match_id": 1834930,
+    "team_code": 72,
+    "scorer_name": "Ché Adams",
+    "scorer_code": 256419.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 197,
+    "match_id": 1834930,
+    "team_code": 77,
+    "scorer_name": "Tijjani Noslin",
+    "scorer_code": 423863.0,
+    "minute": 89.0
+  },
+  {
+    "goal_id": 198,
+    "match_id": 1834930,
+    "team_code": 72,
+    "scorer_name": "Saúl Coco",
+    "scorer_code": 431167.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 199,
+    "match_id": 1834931,
+    "team_code": 77,
+    "scorer_name": "Boulaye Dia",
+    "scorer_code": 365122.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 200,
+    "match_id": 1834931,
+    "team_code": 1290,
+    "scorer_name": "Patrick Cutrone",
+    "scorer_code": 329681.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 201,
+    "match_id": 1834932,
+    "team_code": 269,
+    "scorer_name": "Daniel Maldini",
+    "scorer_code": 388493.0,
+    "minute": 4.0
+  },
+  {
+    "goal_id": 202,
+    "match_id": 1834932,
+    "team_code": 71,
+    "scorer_name": "Santiago Castro",
+    "scorer_code": 421081.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 203,
+    "match_id": 1834932,
+    "team_code": 71,
+    "scorer_name": "Jens Odgaard",
+    "scorer_code": 362553.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 204,
+    "match_id": 1834932,
+    "team_code": 71,
+    "scorer_name": "Riccardo Orsolini",
+    "scorer_code": 286828.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 205,
+    "match_id": 1834933,
+    "team_code": 80,
+    "scorer_name": "Álvaro Morata",
+    "scorer_code": 91213.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 206,
+    "match_id": 1834933,
+    "team_code": 78,
+    "scorer_name": "Nadir Zortea",
+    "scorer_code": 423508.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 207,
+    "match_id": 1834934,
+    "team_code": 79,
+    "scorer_name": "Santiago Pierotti",
+    "scorer_code": 381913.0,
+    "minute": 42.0
+  },
+  {
+    "goal_id": 208,
+    "match_id": 1834934,
+    "team_code": 78,
+    "scorer_name": "Gianluca Gaetano",
+    "scorer_code": 369883.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 209,
+    "match_id": 1834934,
+    "team_code": 78,
+    "scorer_name": "Sebastiano Luperto",
+    "scorer_code": 255292.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 210,
+    "match_id": 1834934,
+    "team_code": 78,
+    "scorer_name": "Nadir Zortea",
+    "scorer_code": 423508.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 211,
+    "match_id": 1834934,
+    "team_code": 78,
+    "scorer_name": "Adam Obert",
+    "scorer_code": 424534.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 212,
+    "match_id": 1834935,
+    "team_code": 1290,
+    "scorer_name": "Assane Diao",
+    "scorer_code": 502427.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 213,
+    "match_id": 1834935,
+    "team_code": 1290,
+    "scorer_name": "Gabriel Strefezza",
+    "scorer_code": 335576.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 214,
+    "match_id": 1834935,
+    "team_code": 86,
+    "scorer_name": "Martín Payero",
+    "scorer_code": 349535.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 215,
+    "match_id": 1834935,
+    "team_code": 1290,
+    "scorer_name": "Jaka Bijol",
+    "scorer_code": 360941.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 216,
+    "match_id": 1834935,
+    "team_code": 1290,
+    "scorer_name": "Nico Paz",
+    "scorer_code": 448659.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 217,
+    "match_id": 1834936,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 218,
+    "match_id": 1834936,
+    "team_code": 72,
+    "scorer_name": "Gvidas Gineitis",
+    "scorer_code": 435108.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 219,
+    "match_id": 1834937,
+    "team_code": 77,
+    "scorer_name": "Samuel Gigot",
+    "scorer_code": 234376.0,
+    "minute": 2.0
+  },
+  {
+    "goal_id": 220,
+    "match_id": 1834937,
+    "team_code": 77,
+    "scorer_name": "Boulaye Dia",
+    "scorer_code": 365122.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 221,
+    "match_id": 1834937,
+    "team_code": 77,
+    "scorer_name": "Mattia Zaccagni",
+    "scorer_code": 149029.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 222,
+    "match_id": 1834938,
+    "team_code": 75,
+    "scorer_name": "Lautaro Martínez",
+    "scorer_code": 299344.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 223,
+    "match_id": 1834938,
+    "team_code": 75,
+    "scorer_name": "Denzel Dumfries",
+    "scorer_code": 322153.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 224,
+    "match_id": 1834938,
+    "team_code": 272,
+    "scorer_name": "Sebastiano Esposito",
+    "scorer_code": 371397.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 225,
+    "match_id": 1834938,
+    "team_code": 75,
+    "scorer_name": "Marcus Thuram",
+    "scorer_code": 296322.0,
+    "minute": 89.0
+  },
+  {
+    "goal_id": 226,
+    "match_id": 1834939,
+    "team_code": 87,
+    "scorer_name": "Samuel Mbangula",
+    "scorer_code": 468855.0,
+    "minute": 59.0
+  },
+  {
+    "goal_id": 227,
+    "match_id": 1834939,
+    "team_code": 87,
+    "scorer_name": "Timothy Weah",
+    "scorer_code": 353991.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 228,
+    "match_id": 1834940,
+    "team_code": 85,
+    "scorer_name": "Joel Pohjanpalo",
+    "scorer_code": 139623.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 229,
+    "match_id": 1834940,
+    "team_code": 24341,
+    "scorer_name": "Hernani",
+    "scorer_code": 101958.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 230,
+    "match_id": 1834941,
+    "team_code": 84,
+    "scorer_name": "Artem Dovbyk",
+    "scorer_code": 296975.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 231,
+    "match_id": 1834941,
+    "team_code": 278,
+    "scorer_name": "Patrizio Masini",
+    "scorer_code": 447452.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 232,
+    "match_id": 1834941,
+    "team_code": 84,
+    "scorer_name": "Stephan El Shaarawy",
+    "scorer_code": 70087.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 233,
+    "match_id": 1834941,
+    "team_code": 84,
+    "scorer_name": "Nicola Leali",
+    "scorer_code": 91169.0,
+    "minute": 73.0
+  },
+  {
+    "goal_id": 234,
+    "match_id": 1834942,
+    "team_code": 272,
+    "scorer_name": "Lorenzo Colombo",
+    "scorer_code": 395219.0,
+    "minute": 24.0
+  },
+  {
+    "goal_id": 235,
+    "match_id": 1834942,
+    "team_code": 71,
+    "scorer_name": "Benjamín Domínguez",
+    "scorer_code": 428633.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 236,
+    "match_id": 1834943,
+    "team_code": 278,
+    "scorer_name": "Koni De Winter",
+    "scorer_code": 404623.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 237,
+    "match_id": 1834943,
+    "team_code": 278,
+    "scorer_name": "Johan Vásquez",
+    "scorer_code": 425115.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 238,
+    "match_id": 1834944,
+    "team_code": 73,
+    "scorer_name": "Yacine Adli",
+    "scorer_code": 357811.0,
+    "minute": 11.0
+  },
+  {
+    "goal_id": 239,
+    "match_id": 1834944,
+    "team_code": 73,
+    "scorer_name": "Lucas Beltrán",
+    "scorer_code": 365410.0,
+    "minute": 17.0
+  },
+  {
+    "goal_id": 240,
+    "match_id": 1834944,
+    "team_code": 77,
+    "scorer_name": "Adam Marusic",
+    "scorer_code": 275698.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 241,
+    "match_id": 1834945,
+    "team_code": 75,
+    "scorer_name": "Davide Frattesi",
+    "scorer_code": 331425.0,
+    "minute": 6.0
+  },
+  {
+    "goal_id": 242,
+    "match_id": 1834945,
+    "team_code": 75,
+    "scorer_name": "Lautaro Martínez",
+    "scorer_code": 299344.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 243,
+    "match_id": 1834945,
+    "team_code": 75,
+    "scorer_name": "Denzel Dumfries",
+    "scorer_code": 322153.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 244,
+    "match_id": 1834945,
+    "team_code": 75,
+    "scorer_name": "Mehdi Taremi",
+    "scorer_code": 358801.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 245,
+    "match_id": 1834946,
+    "team_code": 24341,
+    "scorer_name": "Matteo Cancellieri",
+    "scorer_code": 404497.0,
+    "minute": 24.0
+  },
+  {
+    "goal_id": 246,
+    "match_id": 1834946,
+    "team_code": 80,
+    "scorer_name": "Christian Pulisic",
+    "scorer_code": 302692.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 247,
+    "match_id": 1834946,
+    "team_code": 24341,
+    "scorer_name": "Enrico Delprato",
+    "scorer_code": 355856.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 248,
+    "match_id": 1834946,
+    "team_code": 80,
+    "scorer_name": "Tijjani Reijnders",
+    "scorer_code": 343382.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 249,
+    "match_id": 1834946,
+    "team_code": 80,
+    "scorer_name": "Samuel Chukwueze",
+    "scorer_code": 363665.0,
+    "minute": 94.0
+  },
+  {
+    "goal_id": 250,
+    "match_id": 1834947,
+    "team_code": 87,
+    "scorer_name": "Randal Kolo Muani",
+    "scorer_code": 333542.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 251,
+    "match_id": 1834947,
+    "team_code": 276,
+    "scorer_name": "Frank Anguissa",
+    "scorer_code": 349561.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 252,
+    "match_id": 1834947,
+    "team_code": 276,
+    "scorer_name": "Romelu Lukaku",
+    "scorer_code": 78498.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 253,
+    "match_id": 1834948,
+    "team_code": 72,
+    "scorer_name": "Ché Adams",
+    "scorer_code": 256419.0,
+    "minute": 6.0
+  },
+  {
+    "goal_id": 254,
+    "match_id": 1834948,
+    "team_code": 72,
+    "scorer_name": "Ché Adams",
+    "scorer_code": 256419.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 255,
+    "match_id": 1834949,
+    "team_code": 86,
+    "scorer_name": "Lorenzo Lucca",
+    "scorer_code": 424819.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 256,
+    "match_id": 1834949,
+    "team_code": 84,
+    "scorer_name": "Lorenzo Pellegrini",
+    "scorer_code": 148546.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 257,
+    "match_id": 1834949,
+    "team_code": 84,
+    "scorer_name": "Artem Dovbyk",
+    "scorer_code": 296975.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 258,
+    "match_id": 1834950,
+    "team_code": 85,
+    "scorer_name": "Alessio Zerbin",
+    "scorer_code": 338762.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 259,
+    "match_id": 1834950,
+    "team_code": 76,
+    "scorer_name": "Jackson Tchatchoua",
+    "scorer_code": 408580.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 260,
+    "match_id": 1834951,
+    "team_code": 300,
+    "scorer_name": "Berat Djimsiti",
+    "scorer_code": 100962.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 261,
+    "match_id": 1834951,
+    "team_code": 72,
+    "scorer_name": "Guillermo Maripán",
+    "scorer_code": 121417.0,
+    "minute": 40.0
+  },
+  {
+    "goal_id": 262,
+    "match_id": 1834952,
+    "team_code": 71,
+    "scorer_name": "Lorenzo De Silvestri",
+    "scorer_code": 19580.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 263,
+    "match_id": 1834952,
+    "team_code": 71,
+    "scorer_name": "Giovanni Fabbian",
+    "scorer_code": 447528.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 264,
+    "match_id": 1834953,
+    "team_code": 77,
+    "scorer_name": "Mattia Zaccagni",
+    "scorer_code": 149029.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 265,
+    "match_id": 1834953,
+    "team_code": 78,
+    "scorer_name": "Roberto Piccoli",
+    "scorer_code": 369414.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 266,
+    "match_id": 1834953,
+    "team_code": 77,
+    "scorer_name": "Valentín Castellanos",
+    "scorer_code": 361406.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 267,
+    "match_id": 1834954,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 9.0
+  },
+  {
+    "goal_id": 268,
+    "match_id": 1834954,
+    "team_code": 73,
+    "scorer_name": "Albert Gudmundsson",
+    "scorer_code": 289252.0,
+    "minute": 30.0
+  },
+  {
+    "goal_id": 269,
+    "match_id": 1834954,
+    "team_code": 278,
+    "scorer_name": "Koni De Winter",
+    "scorer_code": 404623.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 270,
+    "match_id": 1834955,
+    "team_code": 80,
+    "scorer_name": "Tijjani Reijnders",
+    "scorer_code": 343382.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 271,
+    "match_id": 1834955,
+    "team_code": 75,
+    "scorer_name": "Stefan de Vrij",
+    "scorer_code": 82399.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 272,
+    "match_id": 1834956,
+    "team_code": 76,
+    "scorer_name": "Stefan Lekovic",
+    "scorer_code": 443623.0,
+    "minute": 13.0
+  },
+  {
+    "goal_id": 273,
+    "match_id": 1834957,
+    "team_code": 24341,
+    "scorer_name": "Emanuele Valeri",
+    "scorer_code": 343512.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 274,
+    "match_id": 1834957,
+    "team_code": 79,
+    "scorer_name": "Nikola Krstovic",
+    "scorer_code": 404252.0,
+    "minute": 36.0
+  },
+  {
+    "goal_id": 275,
+    "match_id": 1834957,
+    "team_code": 79,
+    "scorer_name": "Santiago Pierotti",
+    "scorer_code": 381913.0,
+    "minute": 63.0
+  },
+  {
+    "goal_id": 276,
+    "match_id": 1834957,
+    "team_code": 79,
+    "scorer_name": "Santiago Pierotti",
+    "scorer_code": 381913.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 277,
+    "match_id": 1834958,
+    "team_code": 276,
+    "scorer_name": "Leonardo Spinazzola",
+    "scorer_code": 92329.0,
+    "minute": 29.0
+  },
+  {
+    "goal_id": 278,
+    "match_id": 1834958,
+    "team_code": 84,
+    "scorer_name": "Angeliño",
+    "scorer_code": 255089.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 279,
+    "match_id": 1834959,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 24.0
+  },
+  {
+    "goal_id": 280,
+    "match_id": 1834959,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 281,
+    "match_id": 1834959,
+    "team_code": 300,
+    "scorer_name": "Éderson",
+    "scorer_code": 362556.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 282,
+    "match_id": 1834959,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 283,
+    "match_id": 1834959,
+    "team_code": 300,
+    "scorer_name": "Marten de Roon",
+    "scorer_code": 85070.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 284,
+    "match_id": 1834959,
+    "team_code": 278,
+    "scorer_name": "Jeff Ekhator",
+    "scorer_code": 535736.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 285,
+    "match_id": 1834960,
+    "team_code": 272,
+    "scorer_name": "Sebastiano Esposito",
+    "scorer_code": 371397.0,
+    "minute": 9.0
+  },
+  {
+    "goal_id": 286,
+    "match_id": 1834960,
+    "team_code": 77,
+    "scorer_name": "Mattia Zaccagni",
+    "scorer_code": 149029.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 287,
+    "match_id": 1834960,
+    "team_code": 77,
+    "scorer_name": "Pedro",
+    "scorer_code": 44055.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 288,
+    "match_id": 1834962,
+    "team_code": 84,
+    "scorer_name": "Artem Dovbyk",
+    "scorer_code": 296975.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 289,
+    "match_id": 1834962,
+    "team_code": 269,
+    "scorer_name": "Dany Mota",
+    "scorer_code": 315287.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 290,
+    "match_id": 1834963,
+    "team_code": 73,
+    "scorer_name": "Yacine Adli",
+    "scorer_code": 357811.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 291,
+    "match_id": 1834963,
+    "team_code": 80,
+    "scorer_name": "Christian Pulisic",
+    "scorer_code": 302692.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 292,
+    "match_id": 1834963,
+    "team_code": 73,
+    "scorer_name": "Albert Gudmundsson",
+    "scorer_code": 289252.0,
+    "minute": 73.0
+  },
+  {
+    "goal_id": 293,
+    "match_id": 1834964,
+    "team_code": 85,
+    "scorer_name": "Gaetano Oristanio",
+    "scorer_code": 439736.0,
+    "minute": 2.0
+  },
+  {
+    "goal_id": 294,
+    "match_id": 1834964,
+    "team_code": 76,
+    "scorer_name": "Casper Tengstedt",
+    "scorer_code": 426271.0,
+    "minute": 9.0
+  },
+  {
+    "goal_id": 295,
+    "match_id": 1834964,
+    "team_code": 76,
+    "scorer_name": "Jesse Joronen",
+    "scorer_code": 128105.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 296,
+    "match_id": 1834965,
+    "team_code": 75,
+    "scorer_name": "Marcus Thuram",
+    "scorer_code": 296322.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 297,
+    "match_id": 1834965,
+    "team_code": 75,
+    "scorer_name": "Marcus Thuram",
+    "scorer_code": 296322.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 298,
+    "match_id": 1834965,
+    "team_code": 72,
+    "scorer_name": "Duván Zapata",
+    "scorer_code": 41073.0,
+    "minute": 36.0
+  },
+  {
+    "goal_id": 299,
+    "match_id": 1834965,
+    "team_code": 75,
+    "scorer_name": "Marcus Thuram",
+    "scorer_code": 296322.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 300,
+    "match_id": 1834965,
+    "team_code": 72,
+    "scorer_name": "Nikola Vlasic",
+    "scorer_code": 343975.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 301,
+    "match_id": 1834966,
+    "team_code": 87,
+    "scorer_name": "Dusan Vlahovic",
+    "scorer_code": 315369.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 302,
+    "match_id": 1834966,
+    "team_code": 78,
+    "scorer_name": "Razvan Marin",
+    "scorer_code": 239013.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 303,
+    "match_id": 1834967,
+    "team_code": 276,
+    "scorer_name": "Scott McTominay",
+    "scorer_code": 336915.0,
+    "minute": 1.0
+  },
+  {
+    "goal_id": 304,
+    "match_id": 1834967,
+    "team_code": 1290,
+    "scorer_name": "Gabriel Strefezza",
+    "scorer_code": 335576.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 305,
+    "match_id": 1834967,
+    "team_code": 276,
+    "scorer_name": "Romelu Lukaku",
+    "scorer_code": 78498.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 306,
+    "match_id": 1834967,
+    "team_code": 276,
+    "scorer_name": "David Neres",
+    "scorer_code": 326505.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 307,
+    "match_id": 1834968,
+    "team_code": 86,
+    "scorer_name": "Jordan Zemura",
+    "scorer_code": 400609.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 308,
+    "match_id": 1834969,
+    "team_code": 78,
+    "scorer_name": "Nicolas Viola",
+    "scorer_code": 67307.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 309,
+    "match_id": 1834969,
+    "team_code": 72,
+    "scorer_name": "Antonio Sanabria",
+    "scorer_code": 135057.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 310,
+    "match_id": 1834969,
+    "team_code": 72,
+    "scorer_name": "Karol Linetty",
+    "scorer_code": 141736.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 311,
+    "match_id": 1834969,
+    "team_code": 78,
+    "scorer_name": "José Palomino",
+    "scorer_code": 125810.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 312,
+    "match_id": 1834969,
+    "team_code": 78,
+    "scorer_name": "Saúl Coco",
+    "scorer_code": 431167.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 313,
+    "match_id": 1834970,
+    "team_code": 300,
+    "scorer_name": "Mario Pasalic",
+    "scorer_code": 129903.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 314,
+    "match_id": 1834970,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 315,
+    "match_id": 1834971,
+    "team_code": 71,
+    "scorer_name": "Riccardo Orsolini",
+    "scorer_code": 286828.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 316,
+    "match_id": 1834971,
+    "team_code": 71,
+    "scorer_name": "Jens Odgaard",
+    "scorer_code": 362553.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 317,
+    "match_id": 1834971,
+    "team_code": 278,
+    "scorer_name": "Andrea Pinamonti",
+    "scorer_code": 317544.0,
+    "minute": 73.0
+  },
+  {
+    "goal_id": 318,
+    "match_id": 1834971,
+    "team_code": 278,
+    "scorer_name": "Andrea Pinamonti",
+    "scorer_code": 317544.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 319,
+    "match_id": 1834972,
+    "team_code": 276,
+    "scorer_name": "Khvicha Kvaratskhelia",
+    "scorer_code": 370984.0,
+    "minute": 63.0
+  },
+  {
+    "goal_id": 320,
+    "match_id": 1834973,
+    "team_code": 24341,
+    "scorer_name": "Ange-Yoan Bonny",
+    "scorer_code": 447489.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 321,
+    "match_id": 1834973,
+    "team_code": 1290,
+    "scorer_name": "Nico Paz",
+    "scorer_code": 448659.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 322,
+    "match_id": 1834974,
+    "team_code": 269,
+    "scorer_name": "Dany Mota",
+    "scorer_code": 315287.0,
+    "minute": 9.0
+  },
+  {
+    "goal_id": 323,
+    "match_id": 1834974,
+    "team_code": 269,
+    "scorer_name": "Dany Mota",
+    "scorer_code": 315287.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 324,
+    "match_id": 1834974,
+    "team_code": 269,
+    "scorer_name": "Alessandro Bianco",
+    "scorer_code": 410025.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 325,
+    "match_id": 1834975,
+    "team_code": 87,
+    "scorer_name": "Mario Gila",
+    "scorer_code": 437646.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 326,
+    "match_id": 1834976,
+    "team_code": 73,
+    "scorer_name": "Danilo Cataldi",
+    "scorer_code": 118147.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 327,
+    "match_id": 1834976,
+    "team_code": 73,
+    "scorer_name": "Andrea Colpani",
+    "scorer_code": 356733.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 328,
+    "match_id": 1834976,
+    "team_code": 73,
+    "scorer_name": "Danilo Cataldi",
+    "scorer_code": 118147.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 329,
+    "match_id": 1834976,
+    "team_code": 73,
+    "scorer_name": "Andrea Colpani",
+    "scorer_code": 356733.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 330,
+    "match_id": 1834976,
+    "team_code": 73,
+    "scorer_name": "Lucas Beltrán",
+    "scorer_code": 365410.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 331,
+    "match_id": 1834976,
+    "team_code": 73,
+    "scorer_name": "Fabiano Parisi",
+    "scorer_code": 423918.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 332,
+    "match_id": 1834977,
+    "team_code": 80,
+    "scorer_name": "Samuel Chukwueze",
+    "scorer_code": 363665.0,
+    "minute": 13.0
+  },
+  {
+    "goal_id": 333,
+    "match_id": 1834978,
+    "team_code": 75,
+    "scorer_name": "Lautaro Martínez",
+    "scorer_code": 299344.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 334,
+    "match_id": 1834979,
+    "team_code": 272,
+    "scorer_name": "Pietro Pellegri",
+    "scorer_code": 332270.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 335,
+    "match_id": 1834980,
+    "team_code": 75,
+    "scorer_name": "Lautaro Martínez",
+    "scorer_code": 299344.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 336,
+    "match_id": 1834981,
+    "team_code": 300,
+    "scorer_name": "Ademola Lookman",
+    "scorer_code": 299451.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 337,
+    "match_id": 1834981,
+    "team_code": 300,
+    "scorer_name": "Ademola Lookman",
+    "scorer_code": 299451.0,
+    "minute": 31.0
+  },
+  {
+    "goal_id": 338,
+    "match_id": 1834981,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 339,
+    "match_id": 1834982,
+    "team_code": 80,
+    "scorer_name": "Tijjani Reijnders",
+    "scorer_code": 343382.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 340,
+    "match_id": 1834983,
+    "team_code": 87,
+    "scorer_name": "Maduka Okoye",
+    "scorer_code": 392339.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 341,
+    "match_id": 1834983,
+    "team_code": 87,
+    "scorer_name": "Nicolò Savona",
+    "scorer_code": 450289.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 342,
+    "match_id": 1834984,
+    "team_code": 71,
+    "scorer_name": "Riccardo Orsolini",
+    "scorer_code": 286828.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 343,
+    "match_id": 1834985,
+    "team_code": 86,
+    "scorer_name": "Hassane Kamara",
+    "scorer_code": 239881.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 344,
+    "match_id": 1834985,
+    "team_code": 300,
+    "scorer_name": "Mario Pasalic",
+    "scorer_code": 129903.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 345,
+    "match_id": 1834985,
+    "team_code": 300,
+    "scorer_name": "Isaak Touré",
+    "scorer_code": 444816.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 346,
+    "match_id": 1834986,
+    "team_code": 76,
+    "scorer_name": "Casper Tengstedt",
+    "scorer_code": 426271.0,
+    "minute": 13.0
+  },
+  {
+    "goal_id": 347,
+    "match_id": 1834986,
+    "team_code": 84,
+    "scorer_name": "Matías Soulé",
+    "scorer_code": 425079.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 348,
+    "match_id": 1834986,
+    "team_code": 76,
+    "scorer_name": "Giangiacomo Magnani",
+    "scorer_code": 362552.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 349,
+    "match_id": 1834986,
+    "team_code": 84,
+    "scorer_name": "Artem Dovbyk",
+    "scorer_code": 296975.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 350,
+    "match_id": 1834986,
+    "team_code": 76,
+    "scorer_name": "Abdou Harroui",
+    "scorer_code": 349895.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 351,
+    "match_id": 1834987,
+    "team_code": 78,
+    "scorer_name": "Nadir Zortea",
+    "scorer_code": 423508.0,
+    "minute": 2.0
+  },
+  {
+    "goal_id": 352,
+    "match_id": 1834987,
+    "team_code": 80,
+    "scorer_name": "Rafael Leão",
+    "scorer_code": 349207.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 353,
+    "match_id": 1834987,
+    "team_code": 80,
+    "scorer_name": "Rafael Leão",
+    "scorer_code": 349207.0,
+    "minute": 40.0
+  },
+  {
+    "goal_id": 354,
+    "match_id": 1834987,
+    "team_code": 78,
+    "scorer_name": "Gabriele Zappa",
+    "scorer_code": 371396.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 355,
+    "match_id": 1834987,
+    "team_code": 80,
+    "scorer_name": "Tammy Abraham",
+    "scorer_code": 317506.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 356,
+    "match_id": 1834987,
+    "team_code": 78,
+    "scorer_name": "Gabriele Zappa",
+    "scorer_code": 371396.0,
+    "minute": 89.0
+  },
+  {
+    "goal_id": 357,
+    "match_id": 1834988,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 4.0
+  },
+  {
+    "goal_id": 358,
+    "match_id": 1834988,
+    "team_code": 76,
+    "scorer_name": "Suat Serdar",
+    "scorer_code": 296119.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 359,
+    "match_id": 1834988,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 59.0
+  },
+  {
+    "goal_id": 360,
+    "match_id": 1834988,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 361,
+    "match_id": 1834989,
+    "team_code": 87,
+    "scorer_name": "Timothy Weah",
+    "scorer_code": 353991.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 362,
+    "match_id": 1834989,
+    "team_code": 87,
+    "scorer_name": "Kenan Yildiz",
+    "scorer_code": 494525.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 363,
+    "match_id": 1834990,
+    "team_code": 77,
+    "scorer_name": "Boulaye Dia",
+    "scorer_code": 365122.0,
+    "minute": 2.0
+  },
+  {
+    "goal_id": 364,
+    "match_id": 1834990,
+    "team_code": 78,
+    "scorer_name": "Zito Luvumbo",
+    "scorer_code": 432157.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 365,
+    "match_id": 1834990,
+    "team_code": 77,
+    "scorer_name": "Mattia Zaccagni",
+    "scorer_code": 149029.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 366,
+    "match_id": 1834991,
+    "team_code": 1290,
+    "scorer_name": "Lucas da Cunha",
+    "scorer_code": 379615.0,
+    "minute": 17.0
+  },
+  {
+    "goal_id": 367,
+    "match_id": 1834991,
+    "team_code": 278,
+    "scorer_name": "Alessandro Vogliacco",
+    "scorer_code": 403463.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 368,
+    "match_id": 1834993,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 4.0
+  },
+  {
+    "goal_id": 369,
+    "match_id": 1834993,
+    "team_code": 300,
+    "scorer_name": "Éderson",
+    "scorer_code": 362556.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 370,
+    "match_id": 1834993,
+    "team_code": 24341,
+    "scorer_name": "Matteo Cancellieri",
+    "scorer_code": 404497.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 371,
+    "match_id": 1834993,
+    "team_code": 300,
+    "scorer_name": "Ademola Lookman",
+    "scorer_code": 299451.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 372,
+    "match_id": 1834994,
+    "team_code": 278,
+    "scorer_name": "Andrea Pinamonti",
+    "scorer_code": 317544.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 373,
+    "match_id": 1834995,
+    "team_code": 87,
+    "scorer_name": "Andrea Cambiaso",
+    "scorer_code": 423440.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 374,
+    "match_id": 1834995,
+    "team_code": 79,
+    "scorer_name": "Ante Rebic",
+    "scorer_code": 101735.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 375,
+    "match_id": 1834996,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 376,
+    "match_id": 1834997,
+    "team_code": 300,
+    "scorer_name": "Marten de Roon",
+    "scorer_code": 85070.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 377,
+    "match_id": 1834997,
+    "team_code": 300,
+    "scorer_name": "Nicolò Zaniolo",
+    "scorer_code": 332398.0,
+    "minute": 89.0
+  },
+  {
+    "goal_id": 378,
+    "match_id": 1834998,
+    "team_code": 276,
+    "scorer_name": "Scott McTominay",
+    "scorer_code": 336915.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 379,
+    "match_id": 1834998,
+    "team_code": 75,
+    "scorer_name": "Hakan Çalhanoglu",
+    "scorer_code": 110373.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 380,
+    "match_id": 1834999,
+    "team_code": 272,
+    "scorer_name": "Pietro Pellegri",
+    "scorer_code": 332270.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 381,
+    "match_id": 1834999,
+    "team_code": 79,
+    "scorer_name": "Santiago Pierotti",
+    "scorer_code": 381913.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 382,
+    "match_id": 1835000,
+    "team_code": 77,
+    "scorer_name": "Mattia Zaccagni",
+    "scorer_code": 149029.0,
+    "minute": 36.0
+  },
+  {
+    "goal_id": 383,
+    "match_id": 1835001,
+    "team_code": 71,
+    "scorer_name": "Santiago Castro",
+    "scorer_code": 421081.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 384,
+    "match_id": 1835001,
+    "team_code": 84,
+    "scorer_name": "Stephan El Shaarawy",
+    "scorer_code": 70087.0,
+    "minute": 63.0
+  },
+  {
+    "goal_id": 385,
+    "match_id": 1835001,
+    "team_code": 71,
+    "scorer_name": "Riccardo Orsolini",
+    "scorer_code": 286828.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 386,
+    "match_id": 1835001,
+    "team_code": 71,
+    "scorer_name": "Jesper Karlsson",
+    "scorer_code": 320614.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 387,
+    "match_id": 1835001,
+    "team_code": 84,
+    "scorer_name": "Stephan El Shaarawy",
+    "scorer_code": 70087.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 388,
+    "match_id": 1835002,
+    "team_code": 85,
+    "scorer_name": "Hans Nicolussi Caviglia",
+    "scorer_code": 371257.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 389,
+    "match_id": 1835002,
+    "team_code": 24341,
+    "scorer_name": "Emanuele Valeri",
+    "scorer_code": 343512.0,
+    "minute": 17.0
+  },
+  {
+    "goal_id": 390,
+    "match_id": 1835002,
+    "team_code": 24341,
+    "scorer_name": "Ange-Yoan Bonny",
+    "scorer_code": 447489.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 391,
+    "match_id": 1835003,
+    "team_code": 73,
+    "scorer_name": "Yacine Adli",
+    "scorer_code": 357811.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 392,
+    "match_id": 1835003,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 393,
+    "match_id": 1835004,
+    "team_code": 272,
+    "scorer_name": "Pietro Pellegri",
+    "scorer_code": 332270.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 394,
+    "match_id": 1835004,
+    "team_code": 86,
+    "scorer_name": "Keinan Davis",
+    "scorer_code": 303107.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 395,
+    "match_id": 1835005,
+    "team_code": 78,
+    "scorer_name": "Razvan Marin",
+    "scorer_code": 239013.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 396,
+    "match_id": 1835005,
+    "team_code": 278,
+    "scorer_name": "Morten Frendrup",
+    "scorer_code": 424806.0,
+    "minute": 12.0
+  },
+  {
+    "goal_id": 397,
+    "match_id": 1835005,
+    "team_code": 278,
+    "scorer_name": "Fabio Miretti",
+    "scorer_code": 425080.0,
+    "minute": 59.0
+  },
+  {
+    "goal_id": 398,
+    "match_id": 1835005,
+    "team_code": 78,
+    "scorer_name": "Roberto Piccoli",
+    "scorer_code": 369414.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 399,
+    "match_id": 1835006,
+    "team_code": 75,
+    "scorer_name": "Joaquín Correa",
+    "scorer_code": 125378.0,
+    "minute": 17.0
+  },
+  {
+    "goal_id": 400,
+    "match_id": 1835006,
+    "team_code": 75,
+    "scorer_name": "Marcus Thuram",
+    "scorer_code": 296322.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 401,
+    "match_id": 1835006,
+    "team_code": 75,
+    "scorer_name": "Marcus Thuram",
+    "scorer_code": 296322.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 402,
+    "match_id": 1835006,
+    "team_code": 75,
+    "scorer_name": "Stefan de Vrij",
+    "scorer_code": 82399.0,
+    "minute": 31.0
+  },
+  {
+    "goal_id": 403,
+    "match_id": 1835006,
+    "team_code": 75,
+    "scorer_name": "Yann Bisseck",
+    "scorer_code": 349126.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 404,
+    "match_id": 1835007,
+    "team_code": 77,
+    "scorer_name": "Samuel Gigot",
+    "scorer_code": 234376.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 405,
+    "match_id": 1835007,
+    "team_code": 77,
+    "scorer_name": "Mattia Zaccagni",
+    "scorer_code": 149029.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 406,
+    "match_id": 1835007,
+    "team_code": 77,
+    "scorer_name": "Fisayo Dele-Bashiru",
+    "scorer_code": 399426.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 407,
+    "match_id": 1835008,
+    "team_code": 276,
+    "scorer_name": "Romelu Lukaku",
+    "scorer_code": 78498.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 408,
+    "match_id": 1835009,
+    "team_code": 72,
+    "scorer_name": "Adam Masina",
+    "scorer_code": 137512.0,
+    "minute": 59.0
+  },
+  {
+    "goal_id": 409,
+    "match_id": 1835009,
+    "team_code": 269,
+    "scorer_name": "Milan Djuric",
+    "scorer_code": 33649.0,
+    "minute": 63.0
+  },
+  {
+    "goal_id": 410,
+    "match_id": 1835010,
+    "team_code": 79,
+    "scorer_name": "Patrick Dorgu",
+    "scorer_code": 495260.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 411,
+    "match_id": 1835011,
+    "team_code": 71,
+    "scorer_name": "Dan Ndoye",
+    "scorer_code": 398414.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 412,
+    "match_id": 1835011,
+    "team_code": 71,
+    "scorer_name": "Riccardo Orsolini",
+    "scorer_code": 286828.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 413,
+    "match_id": 1835011,
+    "team_code": 71,
+    "scorer_name": "Dan Ndoye",
+    "scorer_code": 398414.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 414,
+    "match_id": 1835012,
+    "team_code": 78,
+    "scorer_name": "Roberto Piccoli",
+    "scorer_code": 369414.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 415,
+    "match_id": 1835013,
+    "team_code": 1290,
+    "scorer_name": "Yannik Engelhardt",
+    "scorer_code": 434179.0,
+    "minute": 36.0
+  },
+  {
+    "goal_id": 416,
+    "match_id": 1835013,
+    "team_code": 269,
+    "scorer_name": "Gianluca Caprari",
+    "scorer_code": 98567.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 417,
+    "match_id": 1835014,
+    "team_code": 73,
+    "scorer_name": "Luca Ranieri",
+    "scorer_code": 355869.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 418,
+    "match_id": 1835014,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 419,
+    "match_id": 1835014,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 89.0
+  },
+  {
+    "goal_id": 420,
+    "match_id": 1835015,
+    "team_code": 80,
+    "scorer_name": "Álvaro Morata",
+    "scorer_code": 91213.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 421,
+    "match_id": 1835015,
+    "team_code": 80,
+    "scorer_name": "Tijjani Reijnders",
+    "scorer_code": 343382.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 422,
+    "match_id": 1835015,
+    "team_code": 80,
+    "scorer_name": "Tijjani Reijnders",
+    "scorer_code": 343382.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 423,
+    "match_id": 1835016,
+    "team_code": 24341,
+    "scorer_name": "Dennis Man",
+    "scorer_code": 329769.0,
+    "minute": 6.0
+  },
+  {
+    "goal_id": 424,
+    "match_id": 1835016,
+    "team_code": 24341,
+    "scorer_name": "Anas Haj Mohamed",
+    "scorer_code": 495497.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 425,
+    "match_id": 1835016,
+    "team_code": 77,
+    "scorer_name": "Valentín Castellanos",
+    "scorer_code": 361406.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 426,
+    "match_id": 1835016,
+    "team_code": 24341,
+    "scorer_name": "Enrico Delprato",
+    "scorer_code": 355856.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 427,
+    "match_id": 1835017,
+    "team_code": 276,
+    "scorer_name": "Scott McTominay",
+    "scorer_code": 336915.0,
+    "minute": 31.0
+  },
+  {
+    "goal_id": 428,
+    "match_id": 1835018,
+    "team_code": 278,
+    "scorer_name": "Andrea Pinamonti",
+    "scorer_code": 317544.0,
+    "minute": 13.0
+  },
+  {
+    "goal_id": 429,
+    "match_id": 1835018,
+    "team_code": 278,
+    "scorer_name": "Lautaro Giannetti",
+    "scorer_code": 126255.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 430,
+    "match_id": 1835019,
+    "team_code": 80,
+    "scorer_name": "Rafael Leão",
+    "scorer_code": 349207.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 431,
+    "match_id": 1835019,
+    "team_code": 71,
+    "scorer_name": "Santiago Castro",
+    "scorer_code": 421081.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 432,
+    "match_id": 1835019,
+    "team_code": 71,
+    "scorer_name": "Dan Ndoye",
+    "scorer_code": 398414.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 433,
+    "match_id": 1835020,
+    "team_code": 300,
+    "scorer_name": "Marten de Roon",
+    "scorer_code": 85070.0,
+    "minute": 6.0
+  },
+  {
+    "goal_id": 434,
+    "match_id": 1835020,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 9.0
+  },
+  {
+    "goal_id": 435,
+    "match_id": 1835020,
+    "team_code": 300,
+    "scorer_name": "Charles De Ketelaere",
+    "scorer_code": 386390.0,
+    "minute": 14.0
+  },
+  {
+    "goal_id": 436,
+    "match_id": 1835020,
+    "team_code": 300,
+    "scorer_name": "Ademola Lookman",
+    "scorer_code": 299451.0,
+    "minute": 29.0
+  },
+  {
+    "goal_id": 437,
+    "match_id": 1835020,
+    "team_code": 300,
+    "scorer_name": "Ademola Lookman",
+    "scorer_code": 299451.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 438,
+    "match_id": 1835020,
+    "team_code": 76,
+    "scorer_name": "Amin Sarr",
+    "scorer_code": 401593.0,
+    "minute": 42.0
+  },
+  {
+    "goal_id": 439,
+    "match_id": 1835020,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 440,
+    "match_id": 1835021,
+    "team_code": 75,
+    "scorer_name": "Piotr Zielinski",
+    "scorer_code": 118169.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 441,
+    "match_id": 1835021,
+    "team_code": 87,
+    "scorer_name": "Dusan Vlahovic",
+    "scorer_code": 315369.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 442,
+    "match_id": 1835021,
+    "team_code": 87,
+    "scorer_name": "Timothy Weah",
+    "scorer_code": 353991.0,
+    "minute": 26.0
+  },
+  {
+    "goal_id": 443,
+    "match_id": 1835021,
+    "team_code": 75,
+    "scorer_name": "Henrikh Mkhitaryan",
+    "scorer_code": 28421.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 444,
+    "match_id": 1835021,
+    "team_code": 75,
+    "scorer_name": "Piotr Zielinski",
+    "scorer_code": 118169.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 445,
+    "match_id": 1835021,
+    "team_code": 75,
+    "scorer_name": "Denzel Dumfries",
+    "scorer_code": 322153.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 446,
+    "match_id": 1835021,
+    "team_code": 87,
+    "scorer_name": "Kenan Yildiz",
+    "scorer_code": 494525.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 447,
+    "match_id": 1835021,
+    "team_code": 87,
+    "scorer_name": "Kenan Yildiz",
+    "scorer_code": 494525.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 448,
+    "match_id": 1835022,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 9.0
+  },
+  {
+    "goal_id": 449,
+    "match_id": 1835022,
+    "team_code": 73,
+    "scorer_name": "Lucas Beltrán",
+    "scorer_code": 365410.0,
+    "minute": 17.0
+  },
+  {
+    "goal_id": 450,
+    "match_id": 1835022,
+    "team_code": 84,
+    "scorer_name": "Manu Koné",
+    "scorer_code": 369570.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 451,
+    "match_id": 1835022,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 452,
+    "match_id": 1835022,
+    "team_code": 73,
+    "scorer_name": "Edoardo Bove",
+    "scorer_code": 407590.0,
+    "minute": 52.0
+  },
+  {
+    "goal_id": 453,
+    "match_id": 1835022,
+    "team_code": 73,
+    "scorer_name": "Mats Hummels",
+    "scorer_code": 21541.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 454,
+    "match_id": 1835023,
+    "team_code": 85,
+    "scorer_name": "Mikael Ellertsson",
+    "scorer_code": 424834.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 455,
+    "match_id": 1835023,
+    "team_code": 269,
+    "scorer_name": "Georgios Kyriakopoulos",
+    "scorer_code": 248013.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 456,
+    "match_id": 1835023,
+    "team_code": 85,
+    "scorer_name": "Michael Svoboda",
+    "scorer_code": 423518.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 457,
+    "match_id": 1835023,
+    "team_code": 269,
+    "scorer_name": "Milan Djuric",
+    "scorer_code": 33649.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 458,
+    "match_id": 1835024,
+    "team_code": 77,
+    "scorer_name": "Tijjani Noslin",
+    "scorer_code": 423863.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 459,
+    "match_id": 1835024,
+    "team_code": 77,
+    "scorer_name": "Pedro",
+    "scorer_code": 44055.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 460,
+    "match_id": 1835024,
+    "team_code": 77,
+    "scorer_name": "Matías Vecino",
+    "scorer_code": 135625.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 461,
+    "match_id": 1835025,
+    "team_code": 276,
+    "scorer_name": "Giovanni Di Lorenzo",
+    "scorer_code": 122469.0,
+    "minute": 73.0
+  },
+  {
+    "goal_id": 462,
+    "match_id": 1835026,
+    "team_code": 272,
+    "scorer_name": "Woyo Coulibaly",
+    "scorer_code": 447492.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 463,
+    "match_id": 1835026,
+    "team_code": 24341,
+    "scorer_name": "Gabriel Charpentier",
+    "scorer_code": 447453.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 464,
+    "match_id": 1835027,
+    "team_code": 72,
+    "scorer_name": "Alieu Njie",
+    "scorer_code": 497217.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 465,
+    "match_id": 1835028,
+    "team_code": 86,
+    "scorer_name": "Lorenzo Lucca",
+    "scorer_code": 424819.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 466,
+    "match_id": 1835028,
+    "team_code": 86,
+    "scorer_name": "Keinan Davis",
+    "scorer_code": 303107.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 467,
+    "match_id": 1835029,
+    "team_code": 300,
+    "scorer_name": "Lazar Samardzic",
+    "scorer_code": 393039.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 468,
+    "match_id": 1835029,
+    "team_code": 300,
+    "scorer_name": "Davide Zappacosta",
+    "scorer_code": 141312.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 469,
+    "match_id": 1835030,
+    "team_code": 71,
+    "scorer_name": "Riccardo Orsolini",
+    "scorer_code": 286828.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 470,
+    "match_id": 1835030,
+    "team_code": 71,
+    "scorer_name": "Jens Odgaard",
+    "scorer_code": 362553.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 471,
+    "match_id": 1835031,
+    "team_code": 77,
+    "scorer_name": "Valentín Castellanos",
+    "scorer_code": 361406.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 472,
+    "match_id": 1835031,
+    "team_code": 77,
+    "scorer_name": "Pedro",
+    "scorer_code": 44055.0,
+    "minute": 31.0
+  },
+  {
+    "goal_id": 473,
+    "match_id": 1835031,
+    "team_code": 1290,
+    "scorer_name": "Luca Mazzitelli",
+    "scorer_code": 141269.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 474,
+    "match_id": 1835031,
+    "team_code": 77,
+    "scorer_name": "Patric",
+    "scorer_code": 140261.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 475,
+    "match_id": 1835031,
+    "team_code": 77,
+    "scorer_name": "Valentín Castellanos",
+    "scorer_code": 361406.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 476,
+    "match_id": 1835031,
+    "team_code": 77,
+    "scorer_name": "Loum Tchaouna",
+    "scorer_code": 425118.0,
+    "minute": 94.0
+  },
+  {
+    "goal_id": 477,
+    "match_id": 1835032,
+    "team_code": 75,
+    "scorer_name": "Davide Frattesi",
+    "scorer_code": 331425.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 478,
+    "match_id": 1835032,
+    "team_code": 75,
+    "scorer_name": "Davide Frattesi",
+    "scorer_code": 331425.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 479,
+    "match_id": 1835032,
+    "team_code": 75,
+    "scorer_name": "Lautaro Martínez",
+    "scorer_code": 299344.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 480,
+    "match_id": 1835033,
+    "team_code": 73,
+    "scorer_name": "Robin Gosens",
+    "scorer_code": 141726.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 481,
+    "match_id": 1835034,
+    "team_code": 24341,
+    "scorer_name": "Enrico Delprato",
+    "scorer_code": 355856.0,
+    "minute": 3.0
+  },
+  {
+    "goal_id": 482,
+    "match_id": 1835034,
+    "team_code": 87,
+    "scorer_name": "Weston McKennie",
+    "scorer_code": 338275.0,
+    "minute": 31.0
+  },
+  {
+    "goal_id": 483,
+    "match_id": 1835034,
+    "team_code": 24341,
+    "scorer_name": "Simon Sohm",
+    "scorer_code": 367177.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 484,
+    "match_id": 1835034,
+    "team_code": 87,
+    "scorer_name": "Timothy Weah",
+    "scorer_code": 353991.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 485,
+    "match_id": 1835035,
+    "team_code": 79,
+    "scorer_name": "Patrick Dorgu",
+    "scorer_code": 495260.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 486,
+    "match_id": 1835036,
+    "team_code": 276,
+    "scorer_name": "Romelu Lukaku",
+    "scorer_code": 78498.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 487,
+    "match_id": 1835036,
+    "team_code": 276,
+    "scorer_name": "Khvicha Kvaratskhelia",
+    "scorer_code": 370984.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 488,
+    "match_id": 1835037,
+    "team_code": 84,
+    "scorer_name": "Paulo Dybala",
+    "scorer_code": 114863.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 489,
+    "match_id": 1835038,
+    "team_code": 86,
+    "scorer_name": "Sandi Lovric",
+    "scorer_code": 384577.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 490,
+    "match_id": 1835038,
+    "team_code": 86,
+    "scorer_name": "Iker Bravo",
+    "scorer_code": 427262.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 491,
+    "match_id": 1835038,
+    "team_code": 85,
+    "scorer_name": "Joel Pohjanpalo",
+    "scorer_code": 139623.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 492,
+    "match_id": 1835038,
+    "team_code": 85,
+    "scorer_name": "Hans Nicolussi Caviglia",
+    "scorer_code": 371257.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 493,
+    "match_id": 1835038,
+    "team_code": 85,
+    "scorer_name": "Joel Pohjanpalo",
+    "scorer_code": 139623.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 494,
+    "match_id": 1835039,
+    "team_code": 87,
+    "scorer_name": "Randal Kolo Muani",
+    "scorer_code": 333542.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 495,
+    "match_id": 1835039,
+    "team_code": 1290,
+    "scorer_name": "Assane Diao",
+    "scorer_code": 502427.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 496,
+    "match_id": 1835039,
+    "team_code": 87,
+    "scorer_name": "Randal Kolo Muani",
+    "scorer_code": 333542.0,
+    "minute": 89.0
+  },
+  {
+    "goal_id": 497,
+    "match_id": 1835040,
+    "team_code": 78,
+    "scorer_name": "Alessandro Vogliacco",
+    "scorer_code": 403463.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 498,
+    "match_id": 1835040,
+    "team_code": 78,
+    "scorer_name": "Florinel Coman",
+    "scorer_code": 345556.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 499,
+    "match_id": 1835040,
+    "team_code": 24341,
+    "scorer_name": "Giovanni Leoni",
+    "scorer_code": 516040.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 500,
+    "match_id": 1835041,
+    "team_code": 87,
+    "scorer_name": "Francisco Conceição",
+    "scorer_code": 409221.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 501,
+    "match_id": 1835042,
+    "team_code": 80,
+    "scorer_name": "Rafael Leão",
+    "scorer_code": 349207.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 502,
+    "match_id": 1835042,
+    "team_code": 80,
+    "scorer_name": "Santiago Giménez",
+    "scorer_code": 445061.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 503,
+    "match_id": 1835043,
+    "team_code": 77,
+    "scorer_name": "Gustav Isaksen",
+    "scorer_code": 403648.0,
+    "minute": 6.0
+  },
+  {
+    "goal_id": 504,
+    "match_id": 1835043,
+    "team_code": 276,
+    "scorer_name": "Giacomo Raspadori",
+    "scorer_code": 371497.0,
+    "minute": 13.0
+  },
+  {
+    "goal_id": 505,
+    "match_id": 1835043,
+    "team_code": 276,
+    "scorer_name": "Adam Marusic",
+    "scorer_code": 275698.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 506,
+    "match_id": 1835043,
+    "team_code": 77,
+    "scorer_name": "Boulaye Dia",
+    "scorer_code": 365122.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 507,
+    "match_id": 1835044,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 508,
+    "match_id": 1835044,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 509,
+    "match_id": 1835044,
+    "team_code": 300,
+    "scorer_name": "Éderson",
+    "scorer_code": 362556.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 510,
+    "match_id": 1835044,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 511,
+    "match_id": 1835044,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 512,
+    "match_id": 1835045,
+    "team_code": 80,
+    "scorer_name": "Santiago Giménez",
+    "scorer_code": 445061.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 513,
+    "match_id": 1835046,
+    "team_code": 75,
+    "scorer_name": "Marin Pongracic",
+    "scorer_code": 336048.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 514,
+    "match_id": 1835046,
+    "team_code": 73,
+    "scorer_name": "Rolando Mandragora",
+    "scorer_code": 241020.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 515,
+    "match_id": 1835046,
+    "team_code": 75,
+    "scorer_name": "Marko Arnautovic",
+    "scorer_code": 34693.0,
+    "minute": 52.0
+  },
+  {
+    "goal_id": 516,
+    "match_id": 1835049,
+    "team_code": 84,
+    "scorer_name": "Matías Soulé",
+    "scorer_code": 425079.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 517,
+    "match_id": 1835050,
+    "team_code": 276,
+    "scorer_name": "Scott McTominay",
+    "scorer_code": 336915.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 518,
+    "match_id": 1835050,
+    "team_code": 86,
+    "scorer_name": "Jurgen Ekkelenkamp",
+    "scorer_code": 355963.0,
+    "minute": 40.0
+  },
+  {
+    "goal_id": 519,
+    "match_id": 1835051,
+    "team_code": 86,
+    "scorer_name": "Jurgen Ekkelenkamp",
+    "scorer_code": 355963.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 520,
+    "match_id": 1835051,
+    "team_code": 86,
+    "scorer_name": "Jurgen Ekkelenkamp",
+    "scorer_code": 355963.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 521,
+    "match_id": 1835051,
+    "team_code": 86,
+    "scorer_name": "Florian Thauvin",
+    "scorer_code": 99143.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 522,
+    "match_id": 1835052,
+    "team_code": 72,
+    "scorer_name": "Morten Thorsby",
+    "scorer_code": 128839.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 523,
+    "match_id": 1835052,
+    "team_code": 278,
+    "scorer_name": "Andrea Pinamonti",
+    "scorer_code": 317544.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 524,
+    "match_id": 1835054,
+    "team_code": 84,
+    "scorer_name": "Paulo Dybala",
+    "scorer_code": 114863.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 525,
+    "match_id": 1835055,
+    "team_code": 87,
+    "scorer_name": "Dusan Vlahovic",
+    "scorer_code": 315369.0,
+    "minute": 12.0
+  },
+  {
+    "goal_id": 526,
+    "match_id": 1835056,
+    "team_code": 77,
+    "scorer_name": "Adam Marusic",
+    "scorer_code": 275698.0,
+    "minute": 31.0
+  },
+  {
+    "goal_id": 527,
+    "match_id": 1835056,
+    "team_code": 77,
+    "scorer_name": "Pedro",
+    "scorer_code": 44055.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 528,
+    "match_id": 1835056,
+    "team_code": 77,
+    "scorer_name": "Valentín Castellanos",
+    "scorer_code": 361406.0,
+    "minute": 63.0
+  },
+  {
+    "goal_id": 529,
+    "match_id": 1835056,
+    "team_code": 77,
+    "scorer_name": "Pedro",
+    "scorer_code": 44055.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 530,
+    "match_id": 1835056,
+    "team_code": 269,
+    "scorer_name": "Stefano Sensi",
+    "scorer_code": 136306.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 531,
+    "match_id": 1835056,
+    "team_code": 77,
+    "scorer_name": "Fisayo Dele-Bashiru",
+    "scorer_code": 399426.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 532,
+    "match_id": 1835057,
+    "team_code": 71,
+    "scorer_name": "Dan Ndoye",
+    "scorer_code": 398414.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 533,
+    "match_id": 1835057,
+    "team_code": 72,
+    "scorer_name": "Nikola Vlasic",
+    "scorer_code": 343975.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 534,
+    "match_id": 1835057,
+    "team_code": 72,
+    "scorer_name": "Eljif Elmas",
+    "scorer_code": 339579.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 535,
+    "match_id": 1835057,
+    "team_code": 71,
+    "scorer_name": "Dan Ndoye",
+    "scorer_code": 398414.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 536,
+    "match_id": 1835057,
+    "team_code": 71,
+    "scorer_name": "Cristiano Biraghi",
+    "scorer_code": 93935.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 537,
+    "match_id": 1835058,
+    "team_code": 1290,
+    "scorer_name": "Amir Rrahmani",
+    "scorer_code": 295358.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 538,
+    "match_id": 1835058,
+    "team_code": 276,
+    "scorer_name": "Giacomo Raspadori",
+    "scorer_code": 371497.0,
+    "minute": 17.0
+  },
+  {
+    "goal_id": 539,
+    "match_id": 1835058,
+    "team_code": 1290,
+    "scorer_name": "Assane Diao",
+    "scorer_code": 502427.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 540,
+    "match_id": 1835059,
+    "team_code": 1290,
+    "scorer_name": "Assane Diao",
+    "scorer_code": 502427.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 541,
+    "match_id": 1835059,
+    "team_code": 1290,
+    "scorer_name": "Nico Paz",
+    "scorer_code": 448659.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 542,
+    "match_id": 1835060,
+    "team_code": 300,
+    "scorer_name": "Emmanuel Gyasi",
+    "scorer_code": 143526.0,
+    "minute": 27.0
+  },
+  {
+    "goal_id": 543,
+    "match_id": 1835060,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 544,
+    "match_id": 1835060,
+    "team_code": 300,
+    "scorer_name": "Ademola Lookman",
+    "scorer_code": 299451.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 545,
+    "match_id": 1835060,
+    "team_code": 300,
+    "scorer_name": "Ademola Lookman",
+    "scorer_code": 299451.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 546,
+    "match_id": 1835060,
+    "team_code": 300,
+    "scorer_name": "Davide Zappacosta",
+    "scorer_code": 141312.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 547,
+    "match_id": 1835061,
+    "team_code": 278,
+    "scorer_name": "Andrea Pinamonti",
+    "scorer_code": 317544.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 548,
+    "match_id": 1835061,
+    "team_code": 278,
+    "scorer_name": "Maxwel Cornet",
+    "scorer_code": 125004.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 549,
+    "match_id": 1835062,
+    "team_code": 76,
+    "scorer_name": "Antoine Bernede",
+    "scorer_code": 346744.0,
+    "minute": 94.0
+  },
+  {
+    "goal_id": 550,
+    "match_id": 1835063,
+    "team_code": 75,
+    "scorer_name": "Lautaro Martínez",
+    "scorer_code": 299344.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 551,
+    "match_id": 1835064,
+    "team_code": 86,
+    "scorer_name": "Lorenzo Lucca",
+    "scorer_code": 424819.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 552,
+    "match_id": 1835065,
+    "team_code": 24341,
+    "scorer_name": "Ange-Yoan Bonny",
+    "scorer_code": 447489.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 553,
+    "match_id": 1835065,
+    "team_code": 24341,
+    "scorer_name": "Simon Sohm",
+    "scorer_code": 367177.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 554,
+    "match_id": 1835066,
+    "team_code": 84,
+    "scorer_name": "Alexis Saelemaekers",
+    "scorer_code": 365308.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 555,
+    "match_id": 1835066,
+    "team_code": 84,
+    "scorer_name": "Eldor Shomurodov",
+    "scorer_code": 262707.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 556,
+    "match_id": 1835066,
+    "team_code": 84,
+    "scorer_name": "Angeliño",
+    "scorer_code": 255089.0,
+    "minute": 73.0
+  },
+  {
+    "goal_id": 557,
+    "match_id": 1835066,
+    "team_code": 84,
+    "scorer_name": "Bryan Cristante",
+    "scorer_code": 109149.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 558,
+    "match_id": 1835067,
+    "team_code": 72,
+    "scorer_name": "Malick Thiaw",
+    "scorer_code": 393355.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 559,
+    "match_id": 1835067,
+    "team_code": 80,
+    "scorer_name": "Tijjani Reijnders",
+    "scorer_code": 343382.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 560,
+    "match_id": 1835067,
+    "team_code": 72,
+    "scorer_name": "Gvidas Gineitis",
+    "scorer_code": 435108.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 561,
+    "match_id": 1835070,
+    "team_code": 78,
+    "scorer_name": "Roberto Piccoli",
+    "scorer_code": 369414.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 562,
+    "match_id": 1835070,
+    "team_code": 71,
+    "scorer_name": "Riccardo Orsolini",
+    "scorer_code": 286828.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 563,
+    "match_id": 1835070,
+    "team_code": 71,
+    "scorer_name": "Riccardo Orsolini",
+    "scorer_code": 286828.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 564,
+    "match_id": 1835071,
+    "team_code": 73,
+    "scorer_name": "Robin Gosens",
+    "scorer_code": 141726.0,
+    "minute": 9.0
+  },
+  {
+    "goal_id": 565,
+    "match_id": 1835072,
+    "team_code": 272,
+    "scorer_name": "Alberto Grassi",
+    "scorer_code": 240989.0,
+    "minute": 36.0
+  },
+  {
+    "goal_id": 566,
+    "match_id": 1835072,
+    "team_code": 278,
+    "scorer_name": "Johan Vásquez",
+    "scorer_code": 425115.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 567,
+    "match_id": 1835073,
+    "team_code": 87,
+    "scorer_name": "Khéphren Thuram",
+    "scorer_code": 366379.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 568,
+    "match_id": 1835073,
+    "team_code": 87,
+    "scorer_name": "Teun Koopmeiners",
+    "scorer_code": 343308.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 569,
+    "match_id": 1835074,
+    "team_code": 77,
+    "scorer_name": "Mattia Zaccagni",
+    "scorer_code": 149029.0,
+    "minute": 28.0
+  },
+  {
+    "goal_id": 570,
+    "match_id": 1835074,
+    "team_code": 80,
+    "scorer_name": "Samuel Chukwueze",
+    "scorer_code": 363665.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 571,
+    "match_id": 1835074,
+    "team_code": 77,
+    "scorer_name": "Pedro",
+    "scorer_code": 44055.0,
+    "minute": 97.0
+  },
+  {
+    "goal_id": 572,
+    "match_id": 1835075,
+    "team_code": 72,
+    "scorer_name": "Eljif Elmas",
+    "scorer_code": 339579.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 573,
+    "match_id": 1835075,
+    "team_code": 72,
+    "scorer_name": "Cesare Casadei",
+    "scorer_code": 433219.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 574,
+    "match_id": 1835076,
+    "team_code": 75,
+    "scorer_name": "Federico Dimarco",
+    "scorer_code": 255929.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 575,
+    "match_id": 1835076,
+    "team_code": 276,
+    "scorer_name": "Philip Billing",
+    "scorer_code": 145277.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 576,
+    "match_id": 1835077,
+    "team_code": 1290,
+    "scorer_name": "Lucas da Cunha",
+    "scorer_code": 379615.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 577,
+    "match_id": 1835077,
+    "team_code": 84,
+    "scorer_name": "Alexis Saelemaekers",
+    "scorer_code": 365308.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 578,
+    "match_id": 1835077,
+    "team_code": 84,
+    "scorer_name": "Artem Dovbyk",
+    "scorer_code": 296975.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 579,
+    "match_id": 1835078,
+    "team_code": 86,
+    "scorer_name": "Florian Thauvin",
+    "scorer_code": 99143.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 580,
+    "match_id": 1835079,
+    "team_code": 78,
+    "scorer_name": "Nicolas Viola",
+    "scorer_code": 67307.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 581,
+    "match_id": 1835079,
+    "team_code": 278,
+    "scorer_name": "Maxwel Cornet",
+    "scorer_code": 125004.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 582,
+    "match_id": 1835080,
+    "team_code": 1290,
+    "scorer_name": "Jonathan Ikoné",
+    "scorer_code": 322094.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 583,
+    "match_id": 1835080,
+    "team_code": 85,
+    "scorer_name": "Christian Gytkjær",
+    "scorer_code": 39516.0,
+    "minute": 94.0
+  },
+  {
+    "goal_id": 584,
+    "match_id": 1835081,
+    "team_code": 84,
+    "scorer_name": "Matías Soulé",
+    "scorer_code": 425079.0,
+    "minute": 1.0
+  },
+  {
+    "goal_id": 585,
+    "match_id": 1835082,
+    "team_code": 71,
+    "scorer_name": "Jens Odgaard",
+    "scorer_code": 362553.0,
+    "minute": 40.0
+  },
+  {
+    "goal_id": 586,
+    "match_id": 1835082,
+    "team_code": 71,
+    "scorer_name": "Nicolò Cambiaghi",
+    "scorer_code": 373544.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 587,
+    "match_id": 1835082,
+    "team_code": 76,
+    "scorer_name": "Daniel Mosquera",
+    "scorer_code": 532226.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 588,
+    "match_id": 1835083,
+    "team_code": 269,
+    "scorer_name": "Samuele Birindelli",
+    "scorer_code": 328785.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 589,
+    "match_id": 1835083,
+    "team_code": 269,
+    "scorer_name": "Keita Baldé",
+    "scorer_code": 136294.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 590,
+    "match_id": 1835083,
+    "team_code": 75,
+    "scorer_name": "Marko Arnautovic",
+    "scorer_code": 34693.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 591,
+    "match_id": 1835083,
+    "team_code": 75,
+    "scorer_name": "Hakan Çalhanoglu",
+    "scorer_code": 110373.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 592,
+    "match_id": 1835083,
+    "team_code": 75,
+    "scorer_name": "Georgios Kyriakopoulos",
+    "scorer_code": 248013.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 593,
+    "match_id": 1835084,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 29.0
+  },
+  {
+    "goal_id": 594,
+    "match_id": 1835084,
+    "team_code": 300,
+    "scorer_name": "Marten de Roon",
+    "scorer_code": 85070.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 595,
+    "match_id": 1835084,
+    "team_code": 300,
+    "scorer_name": "Davide Zappacosta",
+    "scorer_code": 141312.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 596,
+    "match_id": 1835084,
+    "team_code": 300,
+    "scorer_name": "Ademola Lookman",
+    "scorer_code": 299451.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 597,
+    "match_id": 1835085,
+    "team_code": 86,
+    "scorer_name": "Florian Thauvin",
+    "scorer_code": 99143.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 598,
+    "match_id": 1835085,
+    "team_code": 77,
+    "scorer_name": "Alessio Romagnoli",
+    "scorer_code": 118158.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 599,
+    "match_id": 1835086,
+    "team_code": 79,
+    "scorer_name": "Nikola Krstovic",
+    "scorer_code": 404252.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 600,
+    "match_id": 1835086,
+    "team_code": 79,
+    "scorer_name": "Nikola Krstovic",
+    "scorer_code": 404252.0,
+    "minute": 59.0
+  },
+  {
+    "goal_id": 601,
+    "match_id": 1835086,
+    "team_code": 80,
+    "scorer_name": "Antonino Gallo",
+    "scorer_code": 382637.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 602,
+    "match_id": 1835086,
+    "team_code": 80,
+    "scorer_name": "Christian Pulisic",
+    "scorer_code": 302692.0,
+    "minute": 73.0
+  },
+  {
+    "goal_id": 603,
+    "match_id": 1835086,
+    "team_code": 80,
+    "scorer_name": "Christian Pulisic",
+    "scorer_code": 302692.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 604,
+    "match_id": 1835087,
+    "team_code": 276,
+    "scorer_name": "Romelu Lukaku",
+    "scorer_code": 78498.0,
+    "minute": 26.0
+  },
+  {
+    "goal_id": 605,
+    "match_id": 1835087,
+    "team_code": 276,
+    "scorer_name": "Giacomo Raspadori",
+    "scorer_code": 371497.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 606,
+    "match_id": 1835087,
+    "team_code": 73,
+    "scorer_name": "Albert Gudmundsson",
+    "scorer_code": 289252.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 607,
+    "match_id": 1835088,
+    "team_code": 72,
+    "scorer_name": "Eljif Elmas",
+    "scorer_code": 339579.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 608,
+    "match_id": 1835088,
+    "team_code": 24341,
+    "scorer_name": "Mateo Pellegrino",
+    "scorer_code": 409250.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 609,
+    "match_id": 1835088,
+    "team_code": 72,
+    "scorer_name": "Ché Adams",
+    "scorer_code": 256419.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 610,
+    "match_id": 1835088,
+    "team_code": 24341,
+    "scorer_name": "Mateo Pellegrino",
+    "scorer_code": 409250.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 611,
+    "match_id": 1835089,
+    "team_code": 269,
+    "scorer_name": "Armando Izzo",
+    "scorer_code": 141307.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 612,
+    "match_id": 1835089,
+    "team_code": 24341,
+    "scorer_name": "Ange-Yoan Bonny",
+    "scorer_code": 447489.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 613,
+    "match_id": 1835090,
+    "team_code": 75,
+    "scorer_name": "Carlos Augusto",
+    "scorer_code": 357897.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 614,
+    "match_id": 1835090,
+    "team_code": 75,
+    "scorer_name": "Lautaro Martínez",
+    "scorer_code": 299344.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 615,
+    "match_id": 1835091,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 616,
+    "match_id": 1835092,
+    "team_code": 73,
+    "scorer_name": "Robin Gosens",
+    "scorer_code": 141726.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 617,
+    "match_id": 1835092,
+    "team_code": 73,
+    "scorer_name": "Rolando Mandragora",
+    "scorer_code": 241020.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 618,
+    "match_id": 1835092,
+    "team_code": 73,
+    "scorer_name": "Albert Gudmundsson",
+    "scorer_code": 289252.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 619,
+    "match_id": 1835093,
+    "team_code": 71,
+    "scorer_name": "Jens Odgaard",
+    "scorer_code": 362553.0,
+    "minute": 16.0
+  },
+  {
+    "goal_id": 620,
+    "match_id": 1835093,
+    "team_code": 71,
+    "scorer_name": "Riccardo Orsolini",
+    "scorer_code": 286828.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 621,
+    "match_id": 1835093,
+    "team_code": 71,
+    "scorer_name": "Dan Ndoye",
+    "scorer_code": 398414.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 622,
+    "match_id": 1835093,
+    "team_code": 71,
+    "scorer_name": "Santiago Castro",
+    "scorer_code": 421081.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 623,
+    "match_id": 1835093,
+    "team_code": 71,
+    "scorer_name": "Giovanni Fabbian",
+    "scorer_code": 447528.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 624,
+    "match_id": 1835094,
+    "team_code": 78,
+    "scorer_name": "Nicolas Viola",
+    "scorer_code": 67307.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 625,
+    "match_id": 1835094,
+    "team_code": 78,
+    "scorer_name": "Gianluca Gaetano",
+    "scorer_code": 369883.0,
+    "minute": 73.0
+  },
+  {
+    "goal_id": 626,
+    "match_id": 1835094,
+    "team_code": 78,
+    "scorer_name": "Zito Luvumbo",
+    "scorer_code": 432157.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 627,
+    "match_id": 1835095,
+    "team_code": 87,
+    "scorer_name": "Kenan Yildiz",
+    "scorer_code": 494525.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 628,
+    "match_id": 1835097,
+    "team_code": 87,
+    "scorer_name": "Manuel Locatelli",
+    "scorer_code": 273539.0,
+    "minute": 40.0
+  },
+  {
+    "goal_id": 629,
+    "match_id": 1835097,
+    "team_code": 84,
+    "scorer_name": "Eldor Shomurodov",
+    "scorer_code": 262707.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 630,
+    "match_id": 1835098,
+    "team_code": 269,
+    "scorer_name": "Dany Mota",
+    "scorer_code": 315287.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 631,
+    "match_id": 1835098,
+    "team_code": 1290,
+    "scorer_name": "Jonathan Ikoné",
+    "scorer_code": 322094.0,
+    "minute": 16.0
+  },
+  {
+    "goal_id": 632,
+    "match_id": 1835098,
+    "team_code": 1290,
+    "scorer_name": "Assane Diao",
+    "scorer_code": 502427.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 633,
+    "match_id": 1835098,
+    "team_code": 1290,
+    "scorer_name": "Mërgim Vojvoda",
+    "scorer_code": 228854.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 634,
+    "match_id": 1835099,
+    "team_code": 87,
+    "scorer_name": "Teun Koopmeiners",
+    "scorer_code": 343308.0,
+    "minute": 2.0
+  },
+  {
+    "goal_id": 635,
+    "match_id": 1835099,
+    "team_code": 87,
+    "scorer_name": "Kenan Yildiz",
+    "scorer_code": 494525.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 636,
+    "match_id": 1835099,
+    "team_code": 79,
+    "scorer_name": "Federico Baschirotto",
+    "scorer_code": 446953.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 637,
+    "match_id": 1835100,
+    "team_code": 278,
+    "scorer_name": "Fabio Miretti",
+    "scorer_code": 425080.0,
+    "minute": 16.0
+  },
+  {
+    "goal_id": 638,
+    "match_id": 1835100,
+    "team_code": 278,
+    "scorer_name": "Fabio Miretti",
+    "scorer_code": 425080.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 639,
+    "match_id": 1835100,
+    "team_code": 79,
+    "scorer_name": "Nikola Krstovic",
+    "scorer_code": 404252.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 640,
+    "match_id": 1835101,
+    "team_code": 1290,
+    "scorer_name": "Lucas da Cunha",
+    "scorer_code": 379615.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 641,
+    "match_id": 1835101,
+    "team_code": 80,
+    "scorer_name": "Christian Pulisic",
+    "scorer_code": 302692.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 642,
+    "match_id": 1835101,
+    "team_code": 80,
+    "scorer_name": "Tijjani Reijnders",
+    "scorer_code": 343382.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 643,
+    "match_id": 1835102,
+    "team_code": 75,
+    "scorer_name": "Marko Arnautovic",
+    "scorer_code": 34693.0,
+    "minute": 12.0
+  },
+  {
+    "goal_id": 644,
+    "match_id": 1835102,
+    "team_code": 75,
+    "scorer_name": "Davide Frattesi",
+    "scorer_code": 331425.0,
+    "minute": 29.0
+  },
+  {
+    "goal_id": 645,
+    "match_id": 1835102,
+    "team_code": 86,
+    "scorer_name": "Oumar Solet",
+    "scorer_code": 354072.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 646,
+    "match_id": 1835103,
+    "team_code": 77,
+    "scorer_name": "Valentín Castellanos",
+    "scorer_code": 361406.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 647,
+    "match_id": 1835103,
+    "team_code": 77,
+    "scorer_name": "Boulaye Dia",
+    "scorer_code": 365122.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 648,
+    "match_id": 1835104,
+    "team_code": 85,
+    "scorer_name": "Daniel Fila",
+    "scorer_code": 424299.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 649,
+    "match_id": 1835105,
+    "team_code": 77,
+    "scorer_name": "Adam Marusic",
+    "scorer_code": 275698.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 650,
+    "match_id": 1835105,
+    "team_code": 72,
+    "scorer_name": "Gvidas Gineitis",
+    "scorer_code": 435108.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 651,
+    "match_id": 1835106,
+    "team_code": 84,
+    "scorer_name": "Artem Dovbyk",
+    "scorer_code": 296975.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 652,
+    "match_id": 1835107,
+    "team_code": 84,
+    "scorer_name": "Artem Dovbyk",
+    "scorer_code": 296975.0,
+    "minute": 62.0
+  },
+  {
+    "goal_id": 653,
+    "match_id": 1835108,
+    "team_code": 276,
+    "scorer_name": "Scott McTominay",
+    "scorer_code": 336915.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 654,
+    "match_id": 1835109,
+    "team_code": 276,
+    "scorer_name": "Matteo Politano",
+    "scorer_code": 122683.0,
+    "minute": 2.0
+  },
+  {
+    "goal_id": 655,
+    "match_id": 1835109,
+    "team_code": 276,
+    "scorer_name": "Romelu Lukaku",
+    "scorer_code": 78498.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 656,
+    "match_id": 1835109,
+    "team_code": 80,
+    "scorer_name": "Luka Jovic",
+    "scorer_code": 315755.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 657,
+    "match_id": 1835110,
+    "team_code": 72,
+    "scorer_name": "Nikola Vlasic",
+    "scorer_code": 343975.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 658,
+    "match_id": 1835111,
+    "team_code": 71,
+    "scorer_name": "Riccardo Orsolini",
+    "scorer_code": 286828.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 659,
+    "match_id": 1835112,
+    "team_code": 1290,
+    "scorer_name": "Assane Diao",
+    "scorer_code": 502427.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 660,
+    "match_id": 1835112,
+    "team_code": 1290,
+    "scorer_name": "Edoardo Goldaniga",
+    "scorer_code": 118148.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 661,
+    "match_id": 1835112,
+    "team_code": 1290,
+    "scorer_name": "Assane Diao",
+    "scorer_code": 502427.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 662,
+    "match_id": 1835113,
+    "team_code": 76,
+    "scorer_name": "Ondrej Duda",
+    "scorer_code": 115257.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 663,
+    "match_id": 1835114,
+    "team_code": 77,
+    "scorer_name": "Gustav Isaksen",
+    "scorer_code": 403648.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 664,
+    "match_id": 1835116,
+    "team_code": 276,
+    "scorer_name": "Frank Anguissa",
+    "scorer_code": 349561.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 665,
+    "match_id": 1835116,
+    "team_code": 71,
+    "scorer_name": "Dan Ndoye",
+    "scorer_code": 398414.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 666,
+    "match_id": 1835117,
+    "team_code": 1290,
+    "scorer_name": "Tasos Douvikas",
+    "scorer_code": 422873.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 667,
+    "match_id": 1835117,
+    "team_code": 272,
+    "scorer_name": "Christian Kouamé",
+    "scorer_code": 322217.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 668,
+    "match_id": 1835119,
+    "team_code": 278,
+    "scorer_name": "Alessandro Zanoli",
+    "scorer_code": 423515.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 669,
+    "match_id": 1835120,
+    "team_code": 85,
+    "scorer_name": "Antonino Gallo",
+    "scorer_code": 382637.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 670,
+    "match_id": 1835120,
+    "team_code": 79,
+    "scorer_name": "Federico Baschirotto",
+    "scorer_code": 446953.0,
+    "minute": 65.0
+  },
+  {
+    "goal_id": 671,
+    "match_id": 1835121,
+    "team_code": 73,
+    "scorer_name": "Malick Thiaw",
+    "scorer_code": 393355.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 672,
+    "match_id": 1835121,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 10.0
+  },
+  {
+    "goal_id": 673,
+    "match_id": 1835121,
+    "team_code": 80,
+    "scorer_name": "Tammy Abraham",
+    "scorer_code": 317506.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 674,
+    "match_id": 1835121,
+    "team_code": 80,
+    "scorer_name": "Luka Jovic",
+    "scorer_code": 315755.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 675,
+    "match_id": 1835122,
+    "team_code": 300,
+    "scorer_name": "Éderson",
+    "scorer_code": 362556.0,
+    "minute": 62.0
+  },
+  {
+    "goal_id": 676,
+    "match_id": 1835123,
+    "team_code": 75,
+    "scorer_name": "Matteo Darmian",
+    "scorer_code": 23220.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 677,
+    "match_id": 1835123,
+    "team_code": 75,
+    "scorer_name": "Marcus Thuram",
+    "scorer_code": 296322.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 678,
+    "match_id": 1835123,
+    "team_code": 24341,
+    "scorer_name": "Adrián Bernabé",
+    "scorer_code": 363978.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 679,
+    "match_id": 1835123,
+    "team_code": 24341,
+    "scorer_name": "Jacob Ondrejka",
+    "scorer_code": 435530.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 680,
+    "match_id": 1835124,
+    "team_code": 24341,
+    "scorer_name": "Mateo Pellegrino",
+    "scorer_code": 409250.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 681,
+    "match_id": 1835125,
+    "team_code": 84,
+    "scorer_name": "Eldor Shomurodov",
+    "scorer_code": 262707.0,
+    "minute": 4.0
+  },
+  {
+    "goal_id": 682,
+    "match_id": 1835126,
+    "team_code": 76,
+    "scorer_name": "Amin Sarr",
+    "scorer_code": 401593.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 683,
+    "match_id": 1835126,
+    "team_code": 72,
+    "scorer_name": "Eljif Elmas",
+    "scorer_code": 339579.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 684,
+    "match_id": 1835127,
+    "team_code": 72,
+    "scorer_name": "Ché Adams",
+    "scorer_code": 256419.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 685,
+    "match_id": 1835127,
+    "team_code": 72,
+    "scorer_name": "Ali Dembélé",
+    "scorer_code": 469927.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 686,
+    "match_id": 1835128,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 3.0
+  },
+  {
+    "goal_id": 687,
+    "match_id": 1835128,
+    "team_code": 300,
+    "scorer_name": "Mario Pasalic",
+    "scorer_code": 129903.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 688,
+    "match_id": 1835129,
+    "team_code": 1290,
+    "scorer_name": "Tasos Douvikas",
+    "scorer_code": 422873.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 689,
+    "match_id": 1835132,
+    "team_code": 75,
+    "scorer_name": "Marko Arnautovic",
+    "scorer_code": 34693.0,
+    "minute": 13.0
+  },
+  {
+    "goal_id": 690,
+    "match_id": 1835132,
+    "team_code": 75,
+    "scorer_name": "Lautaro Martínez",
+    "scorer_code": 299344.0,
+    "minute": 26.0
+  },
+  {
+    "goal_id": 691,
+    "match_id": 1835132,
+    "team_code": 78,
+    "scorer_name": "Roberto Piccoli",
+    "scorer_code": 369414.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 692,
+    "match_id": 1835132,
+    "team_code": 75,
+    "scorer_name": "Yann Bisseck",
+    "scorer_code": 349126.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 693,
+    "match_id": 1835133,
+    "team_code": 77,
+    "scorer_name": "Alessio Romagnoli",
+    "scorer_code": 118158.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 694,
+    "match_id": 1835133,
+    "team_code": 84,
+    "scorer_name": "Matías Soulé",
+    "scorer_code": 425079.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 695,
+    "match_id": 1835134,
+    "team_code": 276,
+    "scorer_name": "Scott McTominay",
+    "scorer_code": 336915.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 696,
+    "match_id": 1835134,
+    "team_code": 276,
+    "scorer_name": "Romelu Lukaku",
+    "scorer_code": 78498.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 697,
+    "match_id": 1835134,
+    "team_code": 276,
+    "scorer_name": "Scott McTominay",
+    "scorer_code": 336915.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 698,
+    "match_id": 1835135,
+    "team_code": 80,
+    "scorer_name": "Rafael Leão",
+    "scorer_code": 349207.0,
+    "minute": 42.0
+  },
+  {
+    "goal_id": 699,
+    "match_id": 1835135,
+    "team_code": 80,
+    "scorer_name": "Strahinja Pavlovic",
+    "scorer_code": 383864.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 700,
+    "match_id": 1835135,
+    "team_code": 80,
+    "scorer_name": "Theo Hernández",
+    "scorer_code": 303115.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 701,
+    "match_id": 1835135,
+    "team_code": 80,
+    "scorer_name": "Tijjani Reijnders",
+    "scorer_code": 343382.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 702,
+    "match_id": 1835136,
+    "team_code": 71,
+    "scorer_name": "Riccardo Orsolini",
+    "scorer_code": 286828.0,
+    "minute": 93.0
+  },
+  {
+    "goal_id": 703,
+    "match_id": 1835137,
+    "team_code": 78,
+    "scorer_name": "Roberto Piccoli",
+    "scorer_code": 369414.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 704,
+    "match_id": 1835137,
+    "team_code": 73,
+    "scorer_name": "Robin Gosens",
+    "scorer_code": 141726.0,
+    "minute": 36.0
+  },
+  {
+    "goal_id": 705,
+    "match_id": 1835137,
+    "team_code": 73,
+    "scorer_name": "Lucas Beltrán",
+    "scorer_code": 365410.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 706,
+    "match_id": 1835138,
+    "team_code": 272,
+    "scorer_name": "Jacopo Fazzini",
+    "scorer_code": 431359.0,
+    "minute": 59.0
+  },
+  {
+    "goal_id": 707,
+    "match_id": 1835138,
+    "team_code": 85,
+    "scorer_name": "John Yeboah",
+    "scorer_code": 365389.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 708,
+    "match_id": 1835138,
+    "team_code": 85,
+    "scorer_name": "Gianluca Busio",
+    "scorer_code": 358142.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 709,
+    "match_id": 1835138,
+    "team_code": 272,
+    "scorer_name": "Tino Anjorin",
+    "scorer_code": 384133.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 710,
+    "match_id": 1835139,
+    "team_code": 300,
+    "scorer_name": "Charles De Ketelaere",
+    "scorer_code": 386390.0,
+    "minute": 12.0
+  },
+  {
+    "goal_id": 711,
+    "match_id": 1835139,
+    "team_code": 80,
+    "scorer_name": "Álvaro Morata",
+    "scorer_code": 91213.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 712,
+    "match_id": 1835139,
+    "team_code": 300,
+    "scorer_name": "Ademola Lookman",
+    "scorer_code": 299451.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 713,
+    "match_id": 1835140,
+    "team_code": 71,
+    "scorer_name": "Dan Ndoye",
+    "scorer_code": 398414.0,
+    "minute": 30.0
+  },
+  {
+    "goal_id": 714,
+    "match_id": 1835140,
+    "team_code": 71,
+    "scorer_name": "Tommaso Pobega",
+    "scorer_code": 402123.0,
+    "minute": 52.0
+  },
+  {
+    "goal_id": 715,
+    "match_id": 1835140,
+    "team_code": 87,
+    "scorer_name": "Teun Koopmeiners",
+    "scorer_code": 343308.0,
+    "minute": 62.0
+  },
+  {
+    "goal_id": 716,
+    "match_id": 1835140,
+    "team_code": 87,
+    "scorer_name": "Samuel Mbangula",
+    "scorer_code": 468855.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 717,
+    "match_id": 1835141,
+    "team_code": 73,
+    "scorer_name": "Danilo Cataldi",
+    "scorer_code": 118147.0,
+    "minute": 24.0
+  },
+  {
+    "goal_id": 718,
+    "match_id": 1835142,
+    "team_code": 300,
+    "scorer_name": "Nicolò Zaniolo",
+    "scorer_code": 332398.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 719,
+    "match_id": 1835143,
+    "team_code": 71,
+    "scorer_name": "Jens Odgaard",
+    "scorer_code": 362553.0,
+    "minute": 59.0
+  },
+  {
+    "goal_id": 720,
+    "match_id": 1835145,
+    "team_code": 272,
+    "scorer_name": "Lorenzo Colombo",
+    "scorer_code": 395219.0,
+    "minute": 13.0
+  },
+  {
+    "goal_id": 721,
+    "match_id": 1835145,
+    "team_code": 300,
+    "scorer_name": "Charles De Ketelaere",
+    "scorer_code": 386390.0,
+    "minute": 34.0
+  },
+  {
+    "goal_id": 722,
+    "match_id": 1835145,
+    "team_code": 300,
+    "scorer_name": "Ademola Lookman",
+    "scorer_code": 299451.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 723,
+    "match_id": 1835145,
+    "team_code": 272,
+    "scorer_name": "Sebastiano Esposito",
+    "scorer_code": 371397.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 724,
+    "match_id": 1835145,
+    "team_code": 300,
+    "scorer_name": "Charles De Ketelaere",
+    "scorer_code": 386390.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 725,
+    "match_id": 1835146,
+    "team_code": 86,
+    "scorer_name": "Florian Thauvin",
+    "scorer_code": 99143.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 726,
+    "match_id": 1835146,
+    "team_code": 276,
+    "scorer_name": "Romelu Lukaku",
+    "scorer_code": 78498.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 727,
+    "match_id": 1835146,
+    "team_code": 276,
+    "scorer_name": "Lautaro Giannetti",
+    "scorer_code": 126255.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 728,
+    "match_id": 1835146,
+    "team_code": 276,
+    "scorer_name": "Frank Anguissa",
+    "scorer_code": 349561.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 729,
+    "match_id": 1835147,
+    "team_code": 272,
+    "scorer_name": "Sebastiano Esposito",
+    "scorer_code": 371397.0,
+    "minute": 16.0
+  },
+  {
+    "goal_id": 730,
+    "match_id": 1835147,
+    "team_code": 272,
+    "scorer_name": "Sebastiano Esposito",
+    "scorer_code": 371397.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 731,
+    "match_id": 1835147,
+    "team_code": 272,
+    "scorer_name": "Liberato Cacace",
+    "scorer_code": 402095.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 732,
+    "match_id": 1835147,
+    "team_code": 76,
+    "scorer_name": "Casper Tengstedt",
+    "scorer_code": 426271.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 733,
+    "match_id": 1835147,
+    "team_code": 272,
+    "scorer_name": "Lorenzo Colombo",
+    "scorer_code": 395219.0,
+    "minute": 42.0
+  },
+  {
+    "goal_id": 734,
+    "match_id": 1835148,
+    "team_code": 77,
+    "scorer_name": "Fisayo Dele-Bashiru",
+    "scorer_code": 399426.0,
+    "minute": 27.0
+  },
+  {
+    "goal_id": 735,
+    "match_id": 1835148,
+    "team_code": 300,
+    "scorer_name": "Marco Brescianini",
+    "scorer_code": 367260.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 736,
+    "match_id": 1835149,
+    "team_code": 75,
+    "scorer_name": "Federico Dimarco",
+    "scorer_code": 255929.0,
+    "minute": 40.0
+  },
+  {
+    "goal_id": 737,
+    "match_id": 1835149,
+    "team_code": 75,
+    "scorer_name": "Nicolò Barella",
+    "scorer_code": 148684.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 738,
+    "match_id": 1835149,
+    "team_code": 75,
+    "scorer_name": "Marcus Thuram",
+    "scorer_code": 296322.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 739,
+    "match_id": 1835149,
+    "team_code": 24341,
+    "scorer_name": "Matteo Darmian",
+    "scorer_code": 23220.0,
+    "minute": 81.0
+  },
+  {
+    "goal_id": 740,
+    "match_id": 1835150,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 741,
+    "match_id": 1835150,
+    "team_code": 86,
+    "scorer_name": "Lorenzo Lucca",
+    "scorer_code": 424819.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 742,
+    "match_id": 1835150,
+    "team_code": 86,
+    "scorer_name": "Florian Thauvin",
+    "scorer_code": 99143.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 743,
+    "match_id": 1835151,
+    "team_code": 87,
+    "scorer_name": "Pierre Kalulu",
+    "scorer_code": 391836.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 744,
+    "match_id": 1835151,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 745,
+    "match_id": 1835152,
+    "team_code": 276,
+    "scorer_name": "Frank Anguissa",
+    "scorer_code": 349561.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 746,
+    "match_id": 1835152,
+    "team_code": 276,
+    "scorer_name": "Amir Rrahmani",
+    "scorer_code": 295358.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 747,
+    "match_id": 1835152,
+    "team_code": 278,
+    "scorer_name": "Andrea Pinamonti",
+    "scorer_code": 317544.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 748,
+    "match_id": 1835153,
+    "team_code": 86,
+    "scorer_name": "Lorenzo Lucca",
+    "scorer_code": 424819.0,
+    "minute": 6.0
+  },
+  {
+    "goal_id": 749,
+    "match_id": 1835153,
+    "team_code": 269,
+    "scorer_name": "Georgios Kyriakopoulos",
+    "scorer_code": 248013.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 750,
+    "match_id": 1835153,
+    "team_code": 86,
+    "scorer_name": "Jaka Bijol",
+    "scorer_code": 360941.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 751,
+    "match_id": 1835154,
+    "team_code": 80,
+    "scorer_name": "Tijjani Reijnders",
+    "scorer_code": 343382.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 752,
+    "match_id": 1835155,
+    "team_code": 77,
+    "scorer_name": "Gustav Isaksen",
+    "scorer_code": 403648.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 753,
+    "match_id": 1835156,
+    "team_code": 75,
+    "scorer_name": "Carlos Augusto",
+    "scorer_code": 357897.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 754,
+    "match_id": 1835156,
+    "team_code": 75,
+    "scorer_name": "Marcus Thuram",
+    "scorer_code": 296322.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 755,
+    "match_id": 1835157,
+    "team_code": 84,
+    "scorer_name": "Alexis Saelemaekers",
+    "scorer_code": 365308.0,
+    "minute": 13.0
+  },
+  {
+    "goal_id": 756,
+    "match_id": 1835157,
+    "team_code": 79,
+    "scorer_name": "Nikola Krstovic",
+    "scorer_code": 404252.0,
+    "minute": 40.0
+  },
+  {
+    "goal_id": 757,
+    "match_id": 1835157,
+    "team_code": 84,
+    "scorer_name": "Gianluca Mancini",
+    "scorer_code": 244804.0,
+    "minute": 59.0
+  },
+  {
+    "goal_id": 758,
+    "match_id": 1835157,
+    "team_code": 84,
+    "scorer_name": "Niccolò Pisilli",
+    "scorer_code": 476440.0,
+    "minute": 66.0
+  },
+  {
+    "goal_id": 759,
+    "match_id": 1835157,
+    "team_code": 84,
+    "scorer_name": "Manu Koné",
+    "scorer_code": 369570.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 760,
+    "match_id": 1835158,
+    "team_code": 77,
+    "scorer_name": "Valentín Castellanos",
+    "scorer_code": 361406.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 761,
+    "match_id": 1835158,
+    "team_code": 79,
+    "scorer_name": "Tete Morente",
+    "scorer_code": 402087.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 762,
+    "match_id": 1835158,
+    "team_code": 77,
+    "scorer_name": "Adam Marusic",
+    "scorer_code": 275698.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 763,
+    "match_id": 1835159,
+    "team_code": 85,
+    "scorer_name": "Hans Nicolussi Caviglia",
+    "scorer_code": 371257.0,
+    "minute": 16.0
+  },
+  {
+    "goal_id": 764,
+    "match_id": 1835159,
+    "team_code": 1290,
+    "scorer_name": "Antonio Candela",
+    "scorer_code": 343560.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 765,
+    "match_id": 1835159,
+    "team_code": 1290,
+    "scorer_name": "Andrea Belotti",
+    "scorer_code": 112272.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 766,
+    "match_id": 1835159,
+    "team_code": 85,
+    "scorer_name": "Gaetano Oristanio",
+    "scorer_code": 439736.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 767,
+    "match_id": 1835160,
+    "team_code": 87,
+    "scorer_name": "Weston McKennie",
+    "scorer_code": 338275.0,
+    "minute": 14.0
+  },
+  {
+    "goal_id": 768,
+    "match_id": 1835160,
+    "team_code": 269,
+    "scorer_name": "Samuele Birindelli",
+    "scorer_code": 328785.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 769,
+    "match_id": 1835160,
+    "team_code": 87,
+    "scorer_name": "Nicolás González",
+    "scorer_code": 345322.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 770,
+    "match_id": 1835161,
+    "team_code": 84,
+    "scorer_name": "Paulo Dybala",
+    "scorer_code": 114863.0,
+    "minute": 8.0
+  },
+  {
+    "goal_id": 771,
+    "match_id": 1835161,
+    "team_code": 84,
+    "scorer_name": "Alexis Saelemaekers",
+    "scorer_code": 365308.0,
+    "minute": 13.0
+  },
+  {
+    "goal_id": 772,
+    "match_id": 1835161,
+    "team_code": 84,
+    "scorer_name": "Paulo Dybala",
+    "scorer_code": 114863.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 773,
+    "match_id": 1835161,
+    "team_code": 84,
+    "scorer_name": "Leandro Paredes",
+    "scorer_code": 93700.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 774,
+    "match_id": 1835161,
+    "team_code": 84,
+    "scorer_name": "Artem Dovbyk",
+    "scorer_code": 296975.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 775,
+    "match_id": 1835162,
+    "team_code": 1290,
+    "scorer_name": "Alessandro Gabrielloni",
+    "scorer_code": 232509.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 776,
+    "match_id": 1835162,
+    "team_code": 1290,
+    "scorer_name": "Nico Paz",
+    "scorer_code": 448659.0,
+    "minute": 96.0
+  },
+  {
+    "goal_id": 777,
+    "match_id": 1835163,
+    "team_code": 71,
+    "scorer_name": "Thijs Dallinga",
+    "scorer_code": 379687.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 778,
+    "match_id": 1835163,
+    "team_code": 71,
+    "scorer_name": "Tommaso Pobega",
+    "scorer_code": 402123.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 779,
+    "match_id": 1835164,
+    "team_code": 72,
+    "scorer_name": "Ché Adams",
+    "scorer_code": 256419.0,
+    "minute": 70.0
+  },
+  {
+    "goal_id": 780,
+    "match_id": 1835165,
+    "team_code": 85,
+    "scorer_name": "Francesco Zampano",
+    "scorer_code": 122487.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 781,
+    "match_id": 1835165,
+    "team_code": 85,
+    "scorer_name": "Marin Sverko",
+    "scorer_code": 322591.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 782,
+    "match_id": 1835165,
+    "team_code": 78,
+    "scorer_name": "Leonardo Pavoletti",
+    "scorer_code": 95822.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 783,
+    "match_id": 1835166,
+    "team_code": 87,
+    "scorer_name": "Federico Gatti",
+    "scorer_code": 439909.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 784,
+    "match_id": 1835166,
+    "team_code": 85,
+    "scorer_name": "Mikael Ellertsson",
+    "scorer_code": 424834.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 785,
+    "match_id": 1835166,
+    "team_code": 85,
+    "scorer_name": "Jay Idzes",
+    "scorer_code": 422637.0,
+    "minute": 83.0
+  },
+  {
+    "goal_id": 786,
+    "match_id": 1835166,
+    "team_code": 87,
+    "scorer_name": "Dusan Vlahovic",
+    "scorer_code": 315369.0,
+    "minute": 94.0
+  },
+  {
+    "goal_id": 787,
+    "match_id": 1835167,
+    "team_code": 71,
+    "scorer_name": "Benjamín Domínguez",
+    "scorer_code": 428633.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 788,
+    "match_id": 1835167,
+    "team_code": 76,
+    "scorer_name": "Amin Sarr",
+    "scorer_code": 401593.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 789,
+    "match_id": 1835167,
+    "team_code": 76,
+    "scorer_name": "Casper Tengstedt",
+    "scorer_code": 426271.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 790,
+    "match_id": 1835167,
+    "team_code": 71,
+    "scorer_name": "Benjamín Domínguez",
+    "scorer_code": 428633.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 791,
+    "match_id": 1835167,
+    "team_code": 76,
+    "scorer_name": "Santiago Castro",
+    "scorer_code": 421081.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 792,
+    "match_id": 1835168,
+    "team_code": 75,
+    "scorer_name": "Hakan Çalhanoglu",
+    "scorer_code": 110373.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 793,
+    "match_id": 1835168,
+    "team_code": 75,
+    "scorer_name": "Federico Dimarco",
+    "scorer_code": 255929.0,
+    "minute": 45.0
+  },
+  {
+    "goal_id": 794,
+    "match_id": 1835168,
+    "team_code": 75,
+    "scorer_name": "Nicolò Barella",
+    "scorer_code": 148684.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 795,
+    "match_id": 1835168,
+    "team_code": 75,
+    "scorer_name": "Denzel Dumfries",
+    "scorer_code": 322153.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 796,
+    "match_id": 1835168,
+    "team_code": 75,
+    "scorer_name": "Carlos Augusto",
+    "scorer_code": 357897.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 797,
+    "match_id": 1835168,
+    "team_code": 75,
+    "scorer_name": "Marcus Thuram",
+    "scorer_code": 296322.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 798,
+    "match_id": 1835169,
+    "team_code": 75,
+    "scorer_name": "Alessandro Bastoni",
+    "scorer_code": 329665.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 799,
+    "match_id": 1835169,
+    "team_code": 75,
+    "scorer_name": "Lautaro Martínez",
+    "scorer_code": 299344.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 800,
+    "match_id": 1835169,
+    "team_code": 75,
+    "scorer_name": "Hakan Çalhanoglu",
+    "scorer_code": 110373.0,
+    "minute": 78.0
+  },
+  {
+    "goal_id": 801,
+    "match_id": 1835170,
+    "team_code": 79,
+    "scorer_name": "Tete Morente",
+    "scorer_code": 402087.0,
+    "minute": 3.0
+  },
+  {
+    "goal_id": 802,
+    "match_id": 1835170,
+    "team_code": 269,
+    "scorer_name": "Patrick Dorgu",
+    "scorer_code": 495260.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 803,
+    "match_id": 1835170,
+    "team_code": 79,
+    "scorer_name": "Nikola Krstovic",
+    "scorer_code": 404252.0,
+    "minute": 44.0
+  },
+  {
+    "goal_id": 804,
+    "match_id": 1835171,
+    "team_code": 1290,
+    "scorer_name": "Nico Paz",
+    "scorer_code": 448659.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 805,
+    "match_id": 1835171,
+    "team_code": 1290,
+    "scorer_name": "Patrick Cutrone",
+    "scorer_code": 329681.0,
+    "minute": 80.0
+  },
+  {
+    "goal_id": 806,
+    "match_id": 1835173,
+    "team_code": 278,
+    "scorer_name": "Milan Badelj",
+    "scorer_code": 42435.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 807,
+    "match_id": 1835173,
+    "team_code": 278,
+    "scorer_name": "Caleb Ekuban",
+    "scorer_code": 124209.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 808,
+    "match_id": 1835173,
+    "team_code": 272,
+    "scorer_name": "Sebastiano Esposito",
+    "scorer_code": 371397.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 809,
+    "match_id": 1835174,
+    "team_code": 76,
+    "scorer_name": "Diego Coppola",
+    "scorer_code": 429683.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 810,
+    "match_id": 1835174,
+    "team_code": 24341,
+    "scorer_name": "Simon Sohm",
+    "scorer_code": 367177.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 811,
+    "match_id": 1835174,
+    "team_code": 76,
+    "scorer_name": "Amin Sarr",
+    "scorer_code": 401593.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 812,
+    "match_id": 1835174,
+    "team_code": 76,
+    "scorer_name": "Daniel Mosquera",
+    "scorer_code": 532226.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 813,
+    "match_id": 1835174,
+    "team_code": 24341,
+    "scorer_name": "Simon Sohm",
+    "scorer_code": 367177.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 814,
+    "match_id": 1835175,
+    "team_code": 87,
+    "scorer_name": "Khéphren Thuram",
+    "scorer_code": 366379.0,
+    "minute": 20.0
+  },
+  {
+    "goal_id": 815,
+    "match_id": 1835175,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 38.0
+  },
+  {
+    "goal_id": 816,
+    "match_id": 1835175,
+    "team_code": 87,
+    "scorer_name": "Khéphren Thuram",
+    "scorer_code": 366379.0,
+    "minute": 48.0
+  },
+  {
+    "goal_id": 817,
+    "match_id": 1835175,
+    "team_code": 73,
+    "scorer_name": "Riccardo Sottil",
+    "scorer_code": 355391.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 818,
+    "match_id": 1835176,
+    "team_code": 80,
+    "scorer_name": "Tijjani Reijnders",
+    "scorer_code": 343382.0,
+    "minute": 16.0
+  },
+  {
+    "goal_id": 819,
+    "match_id": 1835176,
+    "team_code": 84,
+    "scorer_name": "Paulo Dybala",
+    "scorer_code": 114863.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 820,
+    "match_id": 1835177,
+    "team_code": 276,
+    "scorer_name": "Giacomo Raspadori",
+    "scorer_code": 371497.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 821,
+    "match_id": 1835178,
+    "team_code": 24341,
+    "scorer_name": "Hernani",
+    "scorer_code": 101958.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 822,
+    "match_id": 1835178,
+    "team_code": 269,
+    "scorer_name": "Pedro Pereira",
+    "scorer_code": 294164.0,
+    "minute": 85.0
+  },
+  {
+    "goal_id": 823,
+    "match_id": 1835178,
+    "team_code": 24341,
+    "scorer_name": "Lautaro Valenti",
+    "scorer_code": 364337.0,
+    "minute": 97.0
+  },
+  {
+    "goal_id": 824,
+    "match_id": 1835179,
+    "team_code": 86,
+    "scorer_name": "Isaak Touré",
+    "scorer_code": 444816.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 825,
+    "match_id": 1835179,
+    "team_code": 86,
+    "scorer_name": "Lorenzo Lucca",
+    "scorer_code": 424819.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 826,
+    "match_id": 1835179,
+    "team_code": 72,
+    "scorer_name": "Ché Adams",
+    "scorer_code": 256419.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 827,
+    "match_id": 1835179,
+    "team_code": 72,
+    "scorer_name": "Samuele Ricci",
+    "scorer_code": 372509.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 828,
+    "match_id": 1835180,
+    "team_code": 1290,
+    "scorer_name": "Assane Diao",
+    "scorer_code": 502427.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 829,
+    "match_id": 1835180,
+    "team_code": 80,
+    "scorer_name": "Theo Hernández",
+    "scorer_code": 303115.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 830,
+    "match_id": 1835180,
+    "team_code": 80,
+    "scorer_name": "Rafael Leão",
+    "scorer_code": 349207.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 831,
+    "match_id": 1835181,
+    "team_code": 276,
+    "scorer_name": "David Neres",
+    "scorer_code": 326505.0,
+    "minute": 29.0
+  },
+  {
+    "goal_id": 832,
+    "match_id": 1835181,
+    "team_code": 276,
+    "scorer_name": "Romelu Lukaku",
+    "scorer_code": 78498.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 833,
+    "match_id": 1835181,
+    "team_code": 276,
+    "scorer_name": "Scott McTominay",
+    "scorer_code": 336915.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 834,
+    "match_id": 1835183,
+    "team_code": 71,
+    "scorer_name": "Santiago Castro",
+    "scorer_code": 421081.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 835,
+    "match_id": 1835183,
+    "team_code": 75,
+    "scorer_name": "Denzel Dumfries",
+    "scorer_code": 322153.0,
+    "minute": 19.0
+  },
+  {
+    "goal_id": 836,
+    "match_id": 1835183,
+    "team_code": 75,
+    "scorer_name": "Lautaro Martínez",
+    "scorer_code": 299344.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 837,
+    "match_id": 1835183,
+    "team_code": 71,
+    "scorer_name": "Emil Holm",
+    "scorer_code": 418579.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 838,
+    "match_id": 1835185,
+    "team_code": 269,
+    "scorer_name": "Gianluca Caprari",
+    "scorer_code": 98567.0,
+    "minute": 6.0
+  },
+  {
+    "goal_id": 839,
+    "match_id": 1835185,
+    "team_code": 78,
+    "scorer_name": "Nadir Zortea",
+    "scorer_code": 423508.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 840,
+    "match_id": 1835185,
+    "team_code": 78,
+    "scorer_name": "Roberto Piccoli",
+    "scorer_code": 369414.0,
+    "minute": 56.0
+  },
+  {
+    "goal_id": 841,
+    "match_id": 1835186,
+    "team_code": 84,
+    "scorer_name": "Lorenzo Pellegrini",
+    "scorer_code": 148546.0,
+    "minute": 11.0
+  },
+  {
+    "goal_id": 842,
+    "match_id": 1835186,
+    "team_code": 84,
+    "scorer_name": "Alexis Saelemaekers",
+    "scorer_code": 365308.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 843,
+    "match_id": 1835188,
+    "team_code": 85,
+    "scorer_name": "Joel Pohjanpalo",
+    "scorer_code": 139623.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 844,
+    "match_id": 1835188,
+    "team_code": 272,
+    "scorer_name": "Sebastiano Esposito",
+    "scorer_code": 371397.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 845,
+    "match_id": 1835189,
+    "team_code": 87,
+    "scorer_name": "Nicolás González",
+    "scorer_code": 345322.0,
+    "minute": 11.0
+  },
+  {
+    "goal_id": 846,
+    "match_id": 1835189,
+    "team_code": 87,
+    "scorer_name": "Randal Kolo Muani",
+    "scorer_code": 333542.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 847,
+    "match_id": 1835190,
+    "team_code": 79,
+    "scorer_name": "Jesper Karlsson",
+    "scorer_code": 320614.0,
+    "minute": 29.0
+  },
+  {
+    "goal_id": 848,
+    "match_id": 1835190,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 849,
+    "match_id": 1835191,
+    "team_code": 1290,
+    "scorer_name": "Gabriel Strefezza",
+    "scorer_code": 335576.0,
+    "minute": 59.0
+  },
+  {
+    "goal_id": 850,
+    "match_id": 1835192,
+    "team_code": 73,
+    "scorer_name": "Yacine Adli",
+    "scorer_code": 357811.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 851,
+    "match_id": 1835192,
+    "team_code": 73,
+    "scorer_name": "Rolando Mandragora",
+    "scorer_code": 241020.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 852,
+    "match_id": 1835192,
+    "team_code": 272,
+    "scorer_name": "Jacopo Fazzini",
+    "scorer_code": 431359.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 853,
+    "match_id": 1835193,
+    "team_code": 78,
+    "scorer_name": "Leonardo Pavoletti",
+    "scorer_code": 95822.0,
+    "minute": 30.0
+  },
+  {
+    "goal_id": 854,
+    "match_id": 1835193,
+    "team_code": 78,
+    "scorer_name": "Alessandro Deiola",
+    "scorer_code": 130368.0,
+    "minute": 92.0
+  },
+  {
+    "goal_id": 855,
+    "match_id": 1835194,
+    "team_code": 84,
+    "scorer_name": "Matías Soulé",
+    "scorer_code": 425079.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 856,
+    "match_id": 1835195,
+    "team_code": 24341,
+    "scorer_name": "Jacob Ondrejka",
+    "scorer_code": 435530.0,
+    "minute": 3.0
+  },
+  {
+    "goal_id": 857,
+    "match_id": 1835195,
+    "team_code": 24341,
+    "scorer_name": "Jacob Ondrejka",
+    "scorer_code": 435530.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 858,
+    "match_id": 1835195,
+    "team_code": 77,
+    "scorer_name": "Pedro",
+    "scorer_code": 44055.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 859,
+    "match_id": 1835195,
+    "team_code": 77,
+    "scorer_name": "Pedro",
+    "scorer_code": 44055.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 860,
+    "match_id": 1835196,
+    "team_code": 276,
+    "scorer_name": "Scott McTominay",
+    "scorer_code": 336915.0,
+    "minute": 7.0
+  },
+  {
+    "goal_id": 861,
+    "match_id": 1835196,
+    "team_code": 276,
+    "scorer_name": "Scott McTominay",
+    "scorer_code": 336915.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 862,
+    "match_id": 1835198,
+    "team_code": 80,
+    "scorer_name": "Christian Pulisic",
+    "scorer_code": 302692.0,
+    "minute": 5.0
+  },
+  {
+    "goal_id": 863,
+    "match_id": 1835198,
+    "team_code": 80,
+    "scorer_name": "Santiago Giménez",
+    "scorer_code": 445061.0,
+    "minute": 95.0
+  },
+  {
+    "goal_id": 864,
+    "match_id": 1835199,
+    "team_code": 87,
+    "scorer_name": "Nicolás González",
+    "scorer_code": 345322.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 865,
+    "match_id": 1835199,
+    "team_code": 87,
+    "scorer_name": "Dusan Vlahovic",
+    "scorer_code": 315369.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 866,
+    "match_id": 1835200,
+    "team_code": 85,
+    "scorer_name": "Daniel Fila",
+    "scorer_code": 424299.0,
+    "minute": 2.0
+  },
+  {
+    "goal_id": 867,
+    "match_id": 1835200,
+    "team_code": 87,
+    "scorer_name": "Kenan Yildiz",
+    "scorer_code": 494525.0,
+    "minute": 25.0
+  },
+  {
+    "goal_id": 868,
+    "match_id": 1835200,
+    "team_code": 87,
+    "scorer_name": "Randal Kolo Muani",
+    "scorer_code": 333542.0,
+    "minute": 31.0
+  },
+  {
+    "goal_id": 869,
+    "match_id": 1835200,
+    "team_code": 85,
+    "scorer_name": "Ridgeciano Haps",
+    "scorer_code": 122398.0,
+    "minute": 55.0
+  },
+  {
+    "goal_id": 870,
+    "match_id": 1835200,
+    "team_code": 87,
+    "scorer_name": "Manuel Locatelli",
+    "scorer_code": 273539.0,
+    "minute": 73.0
+  },
+  {
+    "goal_id": 871,
+    "match_id": 1835201,
+    "team_code": 78,
+    "scorer_name": "Yerry Mina",
+    "scorer_code": 318432.0,
+    "minute": 11.0
+  },
+  {
+    "goal_id": 872,
+    "match_id": 1835201,
+    "team_code": 78,
+    "scorer_name": "Roberto Piccoli",
+    "scorer_code": 369414.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 873,
+    "match_id": 1835201,
+    "team_code": 78,
+    "scorer_name": "Alessandro Deiola",
+    "scorer_code": 130368.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 874,
+    "match_id": 1835202,
+    "team_code": 73,
+    "scorer_name": "Fabiano Parisi",
+    "scorer_code": 423918.0,
+    "minute": 13.0
+  },
+  {
+    "goal_id": 875,
+    "match_id": 1835202,
+    "team_code": 71,
+    "scorer_name": "Thijs Dallinga",
+    "scorer_code": 379687.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 876,
+    "match_id": 1835202,
+    "team_code": 73,
+    "scorer_name": "Amir Richardson",
+    "scorer_code": 455515.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 877,
+    "match_id": 1835202,
+    "team_code": 71,
+    "scorer_name": "Riccardo Orsolini",
+    "scorer_code": 286828.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 878,
+    "match_id": 1835202,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 879,
+    "match_id": 1835203,
+    "team_code": 278,
+    "scorer_name": "Andrea Pinamonti",
+    "scorer_code": 317544.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 880,
+    "match_id": 1835203,
+    "team_code": 300,
+    "scorer_name": "Ibrahim Sulemana",
+    "scorer_code": 446991.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 881,
+    "match_id": 1835203,
+    "team_code": 278,
+    "scorer_name": "Andrea Pinamonti",
+    "scorer_code": 317544.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 882,
+    "match_id": 1835203,
+    "team_code": 300,
+    "scorer_name": "Daniel Maldini",
+    "scorer_code": 388493.0,
+    "minute": 63.0
+  },
+  {
+    "goal_id": 883,
+    "match_id": 1835203,
+    "team_code": 300,
+    "scorer_name": "Mateo Retegui",
+    "scorer_code": 349521.0,
+    "minute": 89.0
+  },
+  {
+    "goal_id": 884,
+    "match_id": 1835204,
+    "team_code": 1290,
+    "scorer_name": "Maxence Caqueret",
+    "scorer_code": 368272.0,
+    "minute": 29.0
+  },
+  {
+    "goal_id": 885,
+    "match_id": 1835204,
+    "team_code": 76,
+    "scorer_name": "Darko Lazovic",
+    "scorer_code": 38442.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 886,
+    "match_id": 1835205,
+    "team_code": 75,
+    "scorer_name": "Yann Bisseck",
+    "scorer_code": 349126.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 887,
+    "match_id": 1835205,
+    "team_code": 77,
+    "scorer_name": "Pedro",
+    "scorer_code": 44055.0,
+    "minute": 72.0
+  },
+  {
+    "goal_id": 888,
+    "match_id": 1835205,
+    "team_code": 75,
+    "scorer_name": "Denzel Dumfries",
+    "scorer_code": 322153.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 889,
+    "match_id": 1835205,
+    "team_code": 77,
+    "scorer_name": "Pedro",
+    "scorer_code": 44055.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 890,
+    "match_id": 1835206,
+    "team_code": 79,
+    "scorer_name": "Ylber Ramadani",
+    "scorer_code": 319034.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 891,
+    "match_id": 1835207,
+    "team_code": 269,
+    "scorer_name": "Samuele Birindelli",
+    "scorer_code": 328785.0,
+    "minute": 30.0
+  },
+  {
+    "goal_id": 892,
+    "match_id": 1835207,
+    "team_code": 272,
+    "scorer_name": "Lorenzo Colombo",
+    "scorer_code": 395219.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 893,
+    "match_id": 1835207,
+    "team_code": 272,
+    "scorer_name": "Mattia Viti",
+    "scorer_code": 423451.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 894,
+    "match_id": 1835207,
+    "team_code": 272,
+    "scorer_name": "Semuel Pizzignacco",
+    "scorer_code": 351408.0,
+    "minute": 59.0
+  },
+  {
+    "goal_id": 895,
+    "match_id": 1835209,
+    "team_code": 84,
+    "scorer_name": "Gianluca Mancini",
+    "scorer_code": 244804.0,
+    "minute": 3.0
+  },
+  {
+    "goal_id": 896,
+    "match_id": 1835209,
+    "team_code": 80,
+    "scorer_name": "João Félix",
+    "scorer_code": 362431.0,
+    "minute": 39.0
+  },
+  {
+    "goal_id": 897,
+    "match_id": 1835209,
+    "team_code": 84,
+    "scorer_name": "Leandro Paredes",
+    "scorer_code": 93700.0,
+    "minute": 58.0
+  },
+  {
+    "goal_id": 898,
+    "match_id": 1835209,
+    "team_code": 84,
+    "scorer_name": "Bryan Cristante",
+    "scorer_code": 109149.0,
+    "minute": 87.0
+  },
+  {
+    "goal_id": 899,
+    "match_id": 1835210,
+    "team_code": 300,
+    "scorer_name": "Daniel Maldini",
+    "scorer_code": 388493.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 900,
+    "match_id": 1835210,
+    "team_code": 300,
+    "scorer_name": "Daniel Maldini",
+    "scorer_code": 388493.0,
+    "minute": 33.0
+  },
+  {
+    "goal_id": 901,
+    "match_id": 1835210,
+    "team_code": 24341,
+    "scorer_name": "Antoine Hainaut",
+    "scorer_code": 447493.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 902,
+    "match_id": 1835210,
+    "team_code": 24341,
+    "scorer_name": "Jacob Ondrejka",
+    "scorer_code": 435530.0,
+    "minute": 71.0
+  },
+  {
+    "goal_id": 903,
+    "match_id": 1835210,
+    "team_code": 24341,
+    "scorer_name": "Jacob Ondrejka",
+    "scorer_code": 435530.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 904,
+    "match_id": 1835211,
+    "team_code": 278,
+    "scorer_name": "Vítinha",
+    "scorer_code": 407949.0,
+    "minute": 17.0
+  },
+  {
+    "goal_id": 905,
+    "match_id": 1835211,
+    "team_code": 278,
+    "scorer_name": "Lorenzo Venturino",
+    "scorer_code": 537023.0,
+    "minute": 26.0
+  },
+  {
+    "goal_id": 906,
+    "match_id": 1835211,
+    "team_code": 278,
+    "scorer_name": "Lorenzo Venturino",
+    "scorer_code": 537023.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 907,
+    "match_id": 1835211,
+    "team_code": 71,
+    "scorer_name": "Riccardo Orsolini",
+    "scorer_code": 286828.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 908,
+    "match_id": 1835212,
+    "team_code": 75,
+    "scorer_name": "Stefan de Vrij",
+    "scorer_code": 82399.0,
+    "minute": 21.0
+  },
+  {
+    "goal_id": 909,
+    "match_id": 1835212,
+    "team_code": 75,
+    "scorer_name": "Joaquín Correa",
+    "scorer_code": 125378.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 910,
+    "match_id": 1835213,
+    "team_code": 76,
+    "scorer_name": "Suat Serdar",
+    "scorer_code": 296119.0,
+    "minute": 4.0
+  },
+  {
+    "goal_id": 911,
+    "match_id": 1835213,
+    "team_code": 272,
+    "scorer_name": "Jacopo Fazzini",
+    "scorer_code": 431359.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 912,
+    "match_id": 1835213,
+    "team_code": 76,
+    "scorer_name": "Domagoj Bradaric",
+    "scorer_code": 377311.0,
+    "minute": 69.0
+  },
+  {
+    "goal_id": 913,
+    "match_id": 1835214,
+    "team_code": 79,
+    "scorer_name": "Lassana Coulibaly",
+    "scorer_code": 288894.0,
+    "minute": 43.0
+  },
+  {
+    "goal_id": 914,
+    "match_id": 1835215,
+    "team_code": 80,
+    "scorer_name": "Matteo Gabbia",
+    "scorer_code": 337443.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 915,
+    "match_id": 1835215,
+    "team_code": 80,
+    "scorer_name": "João Félix",
+    "scorer_code": 362431.0,
+    "minute": 74.0
+  },
+  {
+    "goal_id": 916,
+    "match_id": 1835216,
+    "team_code": 276,
+    "scorer_name": "Scott McTominay",
+    "scorer_code": 336915.0,
+    "minute": 42.0
+  },
+  {
+    "goal_id": 917,
+    "match_id": 1835216,
+    "team_code": 276,
+    "scorer_name": "Romelu Lukaku",
+    "scorer_code": 78498.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 918,
+    "match_id": 1835217,
+    "team_code": 84,
+    "scorer_name": "Leandro Paredes",
+    "scorer_code": 93700.0,
+    "minute": 18.0
+  },
+  {
+    "goal_id": 919,
+    "match_id": 1835217,
+    "team_code": 84,
+    "scorer_name": "Alexis Saelemaekers",
+    "scorer_code": 365308.0,
+    "minute": 53.0
+  },
+  {
+    "goal_id": 920,
+    "match_id": 1835218,
+    "team_code": 86,
+    "scorer_name": "Lorenzo Lucca",
+    "scorer_code": 424819.0,
+    "minute": 26.0
+  },
+  {
+    "goal_id": 921,
+    "match_id": 1835218,
+    "team_code": 73,
+    "scorer_name": "Nicolò Fagioli",
+    "scorer_code": 369426.0,
+    "minute": 46.0
+  },
+  {
+    "goal_id": 922,
+    "match_id": 1835218,
+    "team_code": 73,
+    "scorer_name": "Pietro Comuzzo",
+    "scorer_code": 495757.0,
+    "minute": 57.0
+  },
+  {
+    "goal_id": 923,
+    "match_id": 1835218,
+    "team_code": 86,
+    "scorer_name": "Christian Kabasele",
+    "scorer_code": 68393.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 924,
+    "match_id": 1835218,
+    "team_code": 73,
+    "scorer_name": "Moise Kean",
+    "scorer_code": 328990.0,
+    "minute": 82.0
+  },
+  {
+    "goal_id": 925,
+    "match_id": 1835219,
+    "team_code": 87,
+    "scorer_name": "Khéphren Thuram",
+    "scorer_code": 366379.0,
+    "minute": 9.0
+  },
+  {
+    "goal_id": 926,
+    "match_id": 1835219,
+    "team_code": 71,
+    "scorer_name": "Remo Freuler",
+    "scorer_code": 302691.0,
+    "minute": 54.0
+  },
+  {
+    "goal_id": 927,
+    "match_id": 1835220,
+    "team_code": 86,
+    "scorer_name": "Oier Zarraga",
+    "scorer_code": 399989.0,
+    "minute": 27.0
+  },
+  {
+    "goal_id": 928,
+    "match_id": 1835220,
+    "team_code": 78,
+    "scorer_name": "Nadir Zortea",
+    "scorer_code": 423508.0,
+    "minute": 35.0
+  },
+  {
+    "goal_id": 929,
+    "match_id": 1835220,
+    "team_code": 86,
+    "scorer_name": "Thomas Kristensen",
+    "scorer_code": 440029.0,
+    "minute": 67.0
+  },
+  {
+    "goal_id": 930,
+    "match_id": 1835221,
+    "team_code": 77,
+    "scorer_name": "Boulaye Dia",
+    "scorer_code": 365122.0,
+    "minute": 1.0
+  },
+  {
+    "goal_id": 931,
+    "match_id": 1835222,
+    "team_code": 278,
+    "scorer_name": "Vítinha",
+    "scorer_code": 407949.0,
+    "minute": 61.0
+  },
+  {
+    "goal_id": 932,
+    "match_id": 1835222,
+    "team_code": 80,
+    "scorer_name": "Rafael Leão",
+    "scorer_code": 349207.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 933,
+    "match_id": 1835222,
+    "team_code": 80,
+    "scorer_name": "Morten Frendrup",
+    "scorer_code": 424806.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 934,
+    "match_id": 1835223,
+    "team_code": 75,
+    "scorer_name": "Kristjan Asllani",
+    "scorer_code": 423450.0,
+    "minute": 9.0
+  },
+  {
+    "goal_id": 935,
+    "match_id": 1835224,
+    "team_code": 276,
+    "scorer_name": "Giacomo Raspadori",
+    "scorer_code": 371497.0,
+    "minute": 24.0
+  },
+  {
+    "goal_id": 936,
+    "match_id": 1835225,
+    "team_code": 300,
+    "scorer_name": "Charles De Ketelaere",
+    "scorer_code": 386390.0,
+    "minute": 12.0
+  },
+  {
+    "goal_id": 937,
+    "match_id": 1835225,
+    "team_code": 300,
+    "scorer_name": "Charles De Ketelaere",
+    "scorer_code": 386390.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 938,
+    "match_id": 1835225,
+    "team_code": 300,
+    "scorer_name": "Ademola Lookman",
+    "scorer_code": 299451.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 939,
+    "match_id": 1835225,
+    "team_code": 300,
+    "scorer_name": "Marco Brescianini",
+    "scorer_code": 367260.0,
+    "minute": 88.0
+  },
+  {
+    "goal_id": 940,
+    "match_id": 1835226,
+    "team_code": 1290,
+    "scorer_name": "Gabriel Strefezza",
+    "scorer_code": 335576.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 941,
+    "match_id": 1835227,
+    "team_code": 84,
+    "scorer_name": "Artem Dovbyk",
+    "scorer_code": 296975.0,
+    "minute": 50.0
+  },
+  {
+    "goal_id": 942,
+    "match_id": 1835228,
+    "team_code": 85,
+    "scorer_name": "Kike Pérez",
+    "scorer_code": 395579.0,
+    "minute": 37.0
+  },
+  {
+    "goal_id": 943,
+    "match_id": 1835228,
+    "team_code": 72,
+    "scorer_name": "Nikola Vlasic",
+    "scorer_code": 343975.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 944,
+    "match_id": 1835229,
+    "team_code": 300,
+    "scorer_name": "Ademola Lookman",
+    "scorer_code": 299451.0,
+    "minute": 9.0
+  },
+  {
+    "goal_id": 945,
+    "match_id": 1835229,
+    "team_code": 84,
+    "scorer_name": "Bryan Cristante",
+    "scorer_code": 109149.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 946,
+    "match_id": 1835229,
+    "team_code": 300,
+    "scorer_name": "Ibrahim Sulemana",
+    "scorer_code": 446991.0,
+    "minute": 76.0
+  },
+  {
+    "goal_id": 947,
+    "match_id": 1835230,
+    "team_code": 78,
+    "scorer_name": "Michel Adopo",
+    "scorer_code": 356176.0,
+    "minute": 22.0
+  },
+  {
+    "goal_id": 948,
+    "match_id": 1835230,
+    "team_code": 1290,
+    "scorer_name": "Maxence Caqueret",
+    "scorer_code": 368272.0,
+    "minute": 40.0
+  },
+  {
+    "goal_id": 949,
+    "match_id": 1835230,
+    "team_code": 1290,
+    "scorer_name": "Gabriel Strefezza",
+    "scorer_code": 335576.0,
+    "minute": 47.0
+  },
+  {
+    "goal_id": 950,
+    "match_id": 1835230,
+    "team_code": 1290,
+    "scorer_name": "Patrick Cutrone",
+    "scorer_code": 329681.0,
+    "minute": 77.0
+  },
+  {
+    "goal_id": 951,
+    "match_id": 1835231,
+    "team_code": 272,
+    "scorer_name": "Jacopo Fazzini",
+    "scorer_code": 431359.0,
+    "minute": 11.0
+  },
+  {
+    "goal_id": 952,
+    "match_id": 1835231,
+    "team_code": 24341,
+    "scorer_name": "Milan Djuric",
+    "scorer_code": 33649.0,
+    "minute": 73.0
+  },
+  {
+    "goal_id": 953,
+    "match_id": 1835231,
+    "team_code": 272,
+    "scorer_name": "Tino Anjorin",
+    "scorer_code": 384133.0,
+    "minute": 86.0
+  },
+  {
+    "goal_id": 954,
+    "match_id": 1835232,
+    "team_code": 79,
+    "scorer_name": "Nikola Krstovic",
+    "scorer_code": 404252.0,
+    "minute": 23.0
+  },
+  {
+    "goal_id": 955,
+    "match_id": 1835232,
+    "team_code": 76,
+    "scorer_name": "Diego Coppola",
+    "scorer_code": 429683.0,
+    "minute": 41.0
+  },
+  {
+    "goal_id": 956,
+    "match_id": 1835233,
+    "team_code": 87,
+    "scorer_name": "Randal Kolo Muani",
+    "scorer_code": 333542.0,
+    "minute": 51.0
+  },
+  {
+    "goal_id": 957,
+    "match_id": 1835233,
+    "team_code": 77,
+    "scorer_name": "Matías Vecino",
+    "scorer_code": 135625.0,
+    "minute": 95.0
+  },
+  {
+    "goal_id": 958,
+    "match_id": 1835234,
+    "team_code": 71,
+    "scorer_name": "Riccardo Orsolini",
+    "scorer_code": 286828.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 959,
+    "match_id": 1835234,
+    "team_code": 80,
+    "scorer_name": "Santiago Giménez",
+    "scorer_code": 445061.0,
+    "minute": 73.0
+  },
+  {
+    "goal_id": 960,
+    "match_id": 1835234,
+    "team_code": 80,
+    "scorer_name": "Christian Pulisic",
+    "scorer_code": 302692.0,
+    "minute": 79.0
+  },
+  {
+    "goal_id": 961,
+    "match_id": 1835234,
+    "team_code": 80,
+    "scorer_name": "Santiago Giménez",
+    "scorer_code": 445061.0,
+    "minute": 91.0
+  },
+  {
+    "goal_id": 962,
+    "match_id": 1835235,
+    "team_code": 276,
+    "scorer_name": "Romelu Lukaku",
+    "scorer_code": 78498.0,
+    "minute": 15.0
+  },
+  {
+    "goal_id": 963,
+    "match_id": 1835235,
+    "team_code": 278,
+    "scorer_name": "Alex Meret",
+    "scorer_code": 241022.0,
+    "minute": 32.0
+  },
+  {
+    "goal_id": 964,
+    "match_id": 1835235,
+    "team_code": 276,
+    "scorer_name": "Giacomo Raspadori",
+    "scorer_code": 371497.0,
+    "minute": 64.0
+  },
+  {
+    "goal_id": 965,
+    "match_id": 1835235,
+    "team_code": 278,
+    "scorer_name": "Johan Vásquez",
+    "scorer_code": 425115.0,
+    "minute": 84.0
+  },
+  {
+    "goal_id": 966,
+    "match_id": 1835236,
+    "team_code": 75,
+    "scorer_name": "Nicola Zalewski",
+    "scorer_code": 403913.0,
+    "minute": 14.0
+  },
+  {
+    "goal_id": 967,
+    "match_id": 1835236,
+    "team_code": 75,
+    "scorer_name": "Kristjan Asllani",
+    "scorer_code": 423450.0,
+    "minute": 49.0
+  },
+  {
+    "goal_id": 968,
+    "match_id": 1835237,
+    "team_code": 269,
+    "scorer_name": "Gianluca Caprari",
+    "scorer_code": 98567.0,
+    "minute": 52.0
+  },
+  {
+    "goal_id": 969,
+    "match_id": 1835237,
+    "team_code": 86,
+    "scorer_name": "Lorenzo Lucca",
+    "scorer_code": 424819.0,
+    "minute": 75.0
+  },
+  {
+    "goal_id": 970,
+    "match_id": 1835237,
+    "team_code": 269,
+    "scorer_name": "Keita Baldé",
+    "scorer_code": 136294.0,
+    "minute": 90.0
+  },
+  {
+    "goal_id": 971,
+    "match_id": 1835238,
+    "team_code": 85,
+    "scorer_name": "Fali Candé",
+    "scorer_code": 373033.0,
+    "minute": 60.0
+  },
+  {
+    "goal_id": 972,
+    "match_id": 1835238,
+    "team_code": 85,
+    "scorer_name": "Gaetano Oristanio",
+    "scorer_code": 439736.0,
+    "minute": 68.0
+  },
+  {
+    "goal_id": 973,
+    "match_id": 1835238,
+    "team_code": 73,
+    "scorer_name": "Rolando Mandragora",
+    "scorer_code": 241020.0,
+    "minute": 77.0
+  }
+]

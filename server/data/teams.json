@@ -1,0 +1,22 @@
+[
+  { "team_code": 278, "team_name": "Genoa" },
+  { "team_code": 75, "team_name": "Inter" },
+  { "team_code": 24341, "team_name": "Parma" },
+  { "team_code": 73, "team_name": "Fiorentina" },
+  { "team_code": 272, "team_name": "Empoli" },
+  { "team_code": 269, "team_name": "Monza" },
+  { "team_code": 80, "team_name": "Milan" },
+  { "team_code": 72, "team_name": "Torino" },
+  { "team_code": 76, "team_name": "Verona" },
+  { "team_code": 276, "team_name": "Napoli" },
+  { "team_code": 71, "team_name": "Bologna" },
+  { "team_code": 86, "team_name": "Udinese" },
+  { "team_code": 78, "team_name": "Cagliari" },
+  { "team_code": 84, "team_name": "Roma" },
+  { "team_code": 77, "team_name": "Lazio" },
+  { "team_code": 85, "team_name": "Venezia" },
+  { "team_code": 79, "team_name": "Lecce" },
+  { "team_code": 300, "team_name": "Atalanta" },
+  { "team_code": 87, "team_name": "Juventus" },
+  { "team_code": 1290, "team_name": "Como" }
+]
